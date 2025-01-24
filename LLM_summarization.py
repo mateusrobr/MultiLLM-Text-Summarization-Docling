@@ -18,7 +18,7 @@ def evaluate_summaries(models, context, summaries, question):
     """
     Avalia os resumos gerados pelos modelos e seleciona o melhor.
     """
-    evaluation_model = OllamaLLM(model="llama3.2:3b")  # Exemplo de modelo central para avaliação
+    evaluation_model = OllamaLLM(model="llama3.2:1b")  # Exemplo de modelo central para avaliação
     evaluation_prompt = f"""
     Você é um avaliador especializado em resumos. Aqui estão os resumos gerados por diferentes modelos:
     {', '.join([f'Summary {i + 1}: {summary}' for i, summary in enumerate(summaries)])}

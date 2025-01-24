@@ -4,3 +4,5 @@ env
 ./env
 ./chroma_langchain_db
 chroma_langchain_db
+__pycache__
+Editais
