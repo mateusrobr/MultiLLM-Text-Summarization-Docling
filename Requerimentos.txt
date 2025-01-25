@@ -1,0 +1,26 @@
+# Requerimentos para o Projeto MultiLLM-Text-Summarization
+
+1. **Python 3.8+**
+    - O projeto requer a versão 3.8 ou superior do Python.
+
+2. **Bibliotecas Python**
+    - `transformers`: Para utilizar modelos de linguagem pré-treinados.
+    - `torch`: Para suporte a PyTorch.
+    - `numpy`: Para operações numéricas.
+    - `pandas`: Para manipulação de dados.
+    - `scikit-learn`: Para tarefas de aprendizado de máquina.
+    - `nltk`: Para processamento de linguagem natural.
+    - `spacy`: Para processamento de linguagem natural avançado.
+
+3. **Ambiente Virtual**
+    - Recomenda-se o uso de um ambiente virtual para gerenciar as dependências do projeto.
+
+4. **Ferramentas de Desenvolvimento**
+    - `Jupyter Notebook`: Para desenvolvimento e testes interativos.
+    - `VSCode` ou outro editor de código de sua preferência.
+
+5. **Outros Requisitos**
+    - Conexão com a internet para baixar modelos e bibliotecas.
+    - Conta no Hugging Face para acesso a modelos pré-treinados (opcional, mas recomendado).
+
+# Instalação das Dependências
