@@ -17,8 +17,9 @@ def chatbot():
     print("Digite 'exit' a qualquer momento para voltar ao menu principal.\n")
     
     # Lista de modelos para geração e avaliação
-    # models = ["tinyllama:latest", "falcon:7b", "qwen:4b"]
-    models = ["tinyllama:latest", "falcon:7b"]
+    models = ["tinyllama:1.1b", "falcon:7b", "qwen:4b"]
+    # models = ["tinyllama:1.1b", "falcon:7b"]
+    # models = ["tinyllama:1.1b"] #<----------------------------------teste
 
     while True:
         question = input("Você -> ")
