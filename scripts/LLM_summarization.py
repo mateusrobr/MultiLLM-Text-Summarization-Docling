@@ -1,17 +1,19 @@
 from langchain_ollama.llms import OllamaLLM
+
+def invoke_llm(model_name, context, question):
+    llm = OllamaLLM(model=model_name)
+    response = llm.invoke(f"""
+    Você é um chatbot especializado em responder sobre editais de Processo Seletivo da UFPA. 
+    Responda com base no seguinte contexto: {context}. 
+    Pergunta: {question}
+    """)
+    return response
+
 def generate_summary_with_models(models, context, question):
     """
     Gera resumos usando múltiplos modelos de LLM.
     """
-    summaries = []
-    for model_name in models:
-        llm = OllamaLLM(model=model_name)
-        response = llm.invoke(f"""
-        Você é um chatbot especializado em responder sobre editais de Processo Seletivo da UFPA. 
-        Responda com base no seguinte contexto: {context}. 
-        Pergunta: {question}
-        """)
-        summaries.append(response)
+    summaries = [invoke_llm(model_name, context, question) for model_name in models]
     return summaries
 
 def evaluate_summaries(models, context, summaries, question):

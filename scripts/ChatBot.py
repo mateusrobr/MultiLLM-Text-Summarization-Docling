@@ -1,6 +1,7 @@
 from langchain_ollama.llms import OllamaLLM
-from DataBase import loadAndStoreDocument, initializeChromaDB
-from LLM_summarization import generate_summary_with_models, evaluate_summaries
+from scripts.DataBase import loadAndStoreDocuments, initializeChromaDB
+from scripts.DataBase import loadAndStoreDocuments
+from scripts.LLM_summarization import generate_summary_with_models, evaluate_summaries
 
 vectorstore = initializeChromaDB()
 
@@ -16,8 +17,6 @@ def chatbot():
     print("ChatBot -> Olá, sou um ChatBot e estou aqui para te ajudar com dúvidas sobre editais da UFPA.")
     print("Digite 'exit' a qualquer momento para voltar ao menu principal.\n")
     
-    # Lista de modelos para geração e avaliação
-    # models = ["tinyllama:latest", "falcon:7b", "qwen:4b"]
     models = ["tinyllama:latest", "falcon:7b"]
 
     while True:
@@ -48,8 +47,9 @@ def main():
         choice = input("Escolha uma opção: ").strip()
 
         if choice == "1":
-            pdf_path = input("\nDigite o caminho completo do arquivo PDF: ").strip()
-            loadAndStoreDocument(path=pdf_path)
+            pdf_paths = input("\nDigite os caminhos completos dos arquivos PDF separados por vírgula: ").strip().split(',')
+            pdf_paths = [path.strip() for path in pdf_paths]
+            loadAndStoreDocuments(paths=pdf_paths)
 
         elif choice == "2":
             if 'vectorstore' not in globals() or vectorstore is None:
