@@ -23,7 +23,6 @@ def chatbot():
         if question.lower() == "exit":
             print("\nVoltando ao menu principal...")
             break
-
         retrive = vectorstore.as_retriever(
             search_type="similarity",
             search_kwargs={"k": 4}
