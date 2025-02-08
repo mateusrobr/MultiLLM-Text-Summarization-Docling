@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chat</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .chat-container {
+            width: 600px;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        #chat-box {
+            border: 1px solid #ccc;
+            padding: 10px;
+            height: 300px;
+            overflow-y: scroll;
+            background: #fff;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        input, button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #218838;
+        }
+
+        #pdf-upload {
+            margin-top: 10px;
+        }
+    </style>
+    <script>
+        async function sendMessage() {
+            //const username = document.getElementById("username").value; 
+            const message = document.getElementById("message").value;
+            if ( !message) return;
+            
+            const response = await fetch("/send", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ message })
+            });
+            
+            if (response.ok) {
+                document.getElementById("message").value = "";
+                loadMessages();
+
+            }
+
+        }
+        
+        async function loadMessages() {
+            const response = await fetch("/get_messages");
+            const chat = await response.json();
+            
+            const chatBox = document.getElementById("chat-box");
+            chatBox.innerHTML = chat.map(entry => `<p></strong> ${entry.message}</p>`).join("");
+        }
+
+        function loadChatBotMessages() {
+        const chatBox = document.getElementById("chat-box");
+
+            // Simulação de resposta do chatbot
+            const botMessages = [{ message: "Olá! Como posso ajudar?" }, { message: "Isso é um teste do bot." }];
+            chatBox.innerHTML += botMessages.map(entry => `<p><strong>Bot:</strong> ${entry.message}</p>`).join("");
+        }
+
+        async function uploadPDF() {
+            const fileInput = document.getElementById("pdf-upload");
+            const file = fileInput.files[0];
+            if (!file) return;
+            
+            const formData = new FormData();
+            formData.append("pdf", file);
+            
+            const response = await fetch("/upload_pdf", {
+                method: "POST",
+                body: formData
+            });
+            
+            if (response.ok) {
+                alert("PDF enviado com sucesso!");
+                fileInput.value = "";
+            } else {
+                alert("Erro ao enviar o PDF.");
+            }
+        }
+
+            
+        
+        setInterval(loadMessages, 1000);
+    </script>
+</head>
+<body>
+    <div class="chat-container">
+        <h1>Chat</h1>
+        <div id="chat-box"></div>
+    <!--    <input type="text" id="username" placeholder="Nome" required> --> 
+        <input type="text" id="message" placeholder="Mensagem" required>
+        <button onclick="sendMessage()">Enviar</button>
+
+        <input type="file" id="pdf-upload" accept="application/pdf">
+        <button onclick="uploadPDF()">Enviar PDF</button>
+    </div>
+</body>
+</html>
