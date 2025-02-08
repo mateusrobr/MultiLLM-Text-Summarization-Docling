@@ -16,22 +16,22 @@ def chatbot():
     print("Digite 'exit' a qualquer momento para voltar ao menu principal.\n")
     
     #models = ["tinyllama:1.1b", "falcon:7b", "qwen:4b"]
-    models = ["qwen:4b","falcon:7b"]
+    models = ["falcon:7b", "qwen:4b"]
 
     while True:
-        question = input("\nVocê -> \n")
+        question = input("\nVocê ->")
         if question.lower() == "exit":
             print("\nVoltando ao menu principal...")
             break
         retrive = vectorstore.as_retriever(
             search_type="similarity",
-            search_kwargs={"k": 4}
+            search_kwargs={"k": 10}
         )
 
         retrive_doc = retrive.invoke(question)
         context = ' '.join([doc.page_content for doc in retrive_doc])
         
-        print (f'Contexto: {context}\n\n')
+        print (f'Contexto: ------------> {context}\n\n')
 
         # Geração de responstas usando múltiplos modelos
         summaries = generate_response_with_models(models, context, question)
