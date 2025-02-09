@@ -18,7 +18,7 @@ def initializeChromaDB(persist_directory=default_persist_directory):
     try:
         vector_store = Chroma(
             collection_name="Editais_UFPA",
-            embedding_function=OllamaEmbeddings(model="llama3.2:1b"),
+            embedding_function=OllamaEmbeddings(model="nomic-embed-text:latest"),
             persist_directory=persist_directory,
         )
         print(f"Banco de dados vetorial inicializado com sucesso!")
@@ -44,7 +44,8 @@ def loadDocuments(pdf_paths):
             doc = loader.load()
 
             text_splitter = RecursiveCharacterTextSplitter(
-                chunk_size=250,
+                separators=["\n", "\r\n", "\r", "\t", " "],
+                chunk_size=300,
                 chunk_overlap=50,
                 add_start_index=True
             )

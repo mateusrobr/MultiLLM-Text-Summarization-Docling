@@ -10,37 +10,39 @@ def main_menu():
     print("3 - Sair")
     print("=======================================\n")
 
-def chatbot(message):
-    '''print("\n============ Iniciando ChatBot =============")
+def chatbot(): #voltar o message
+    print("\n============ Iniciando ChatBot =============")
     print("ChatBot -> Olá, sou um ChatBot e estou aqui para te ajudar com dúvidas sobre editais da UFPA.")
-    print("Digite 'exit' a qualquer momento para voltar ao menu principal.\n")'''
+    print("Digite 'exit' a qualquer momento para voltar ao menu principal.\n")
     
-    #models = ["tinyllama:1.1b", "falcon:7b", "qwen:4b"]
     models = ["falcon:7b", "qwen:4b"]
 
-    
-    #question = input("\nVocê ->")
-    
-
-    retrive = vectorstore.as_retriever(
-        search_type="similarity",
-        search_kwargs={"k": 10}
-    )
-
-    retrive_doc = retrive.invoke(message)
-    context = ' '.join([doc.page_content for doc in retrive_doc])
+    while True:
+        question = input("\nVocê -> ").strip()
         
-    #print (f'Contexto: ------------> {context}\n\n')
+        if question.lower() == 'exit':
+            print("\nVoltando ao menu principal...\n")
+            break
 
-    # Geração de responstas usando múltiplos modelos
-    summaries = generate_response_with_models(models, context, message)
+        retrive = vectorstore.as_retriever(
+            search_type="similarity",
+            search_kwargs={"k": 10}
+        )
 
-    # Avaliação e seleção da melhor resposta
-    best_response = evaluate_responses(summaries, message)
+        retrive_doc = retrive.invoke(question)
+        context = ' '.join([doc.page_content for doc in retrive_doc])
+        
+        print(f'Contexto: ------------> {context}\n\n')
 
-    return best_response
+        # Geração de respostas usando múltiplos modelos
+        summaries = generate_response_with_models(models, context, question)
 
-'''def main():
+        # Avaliação e seleção da melhor resposta
+        best_response = evaluate_responses(summaries, question)
+
+        print(f"ChatBot -> {best_response}")
+
+def main():
     while True:
         main_menu()
         choice = input("Escolha uma opção: ").strip()
@@ -62,8 +64,7 @@ def chatbot(message):
             break
 
         else:
-            print("\nOpção inválida. Por favor, escolha uma opção válida.")'''
+            print("\nOpção inválida. Por favor, escolha uma opção válida.")
 
-#if __name__ == "__main__":
-    #main()
-
+if __name__ == "__main__":
+    main()
