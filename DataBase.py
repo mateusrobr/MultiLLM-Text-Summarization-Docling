@@ -3,7 +3,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import OllamaEmbeddings
 from langchain_community.vectorstores import Chroma
 
-default_persist_directory = "./Chroma_DB"
+default_persist_directory = "./chroma_langchain_db"
 
 def initializeChromaDB(persist_directory=default_persist_directory):
     """
@@ -44,8 +44,7 @@ def loadDocuments(pdf_paths):
             doc = loader.load()
 
             text_splitter = RecursiveCharacterTextSplitter(
-                separators=["\n", "\r\n", "\r", "\t", " "],
-                chunk_size=300,
+                chunk_size=500,
                 chunk_overlap=50,
                 add_start_index=True
             )
