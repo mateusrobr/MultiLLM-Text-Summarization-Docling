@@ -1,5 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 import os
+from ChatBot import chatbot
+from DataBase import initializeChromaDB, loadDocuments
 
 app = Flask(__name__)
 
@@ -9,6 +11,7 @@ app.config['ALLOWED_EXTENSIONS'] = {'pdf'}
 
 # Armazena mensagens do chat
 chat_history = []
+pdf_paths = []
 
 def allowed_file(filename):
     """Verifica se o arquivo tem a extensão permitida (PDF)."""
@@ -24,9 +27,10 @@ def send_message():
     message = data.get('message')
     
     if message:
-        chat_entry = {'message': message}
-        chat_entry_bot = {'message': "teste"}
-        chat_history.append(chat_entry)
+        chatbot_message = chatbot(message)
+        chat_entry_user = {'message': message}
+        chat_entry_bot = {'message': chatbot_message}
+        chat_history.append(chat_entry_user)
         chat_history.append(chat_entry_bot)
         return jsonify({'status': 'success', 'chat': chat_history})
     
@@ -51,8 +55,19 @@ def upload_pdf():
     # Verifica se o arquivo tem a extensão permitida
     if file and allowed_file(file.filename):
         # Gera o nome do arquivo e salva no diretório de upload
-        filename = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+        path_persistency = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+        #filename = os.path.join(app.config['UPLOAD_FOLDER'], file.filename)
+        filename = path_persistency
+  
+        this_dir_path = os.path.dirname(os.path.abspath(__file__))
+
+        pdf_full_path = this_dir_path + "\\" + filename
+        print(filename)
+        print(pdf_full_path)
         file.save(filename)
+        loadDocuments(pdf_full_path)
+        
+
         return jsonify({'status': 'success', 'message': 'PDF enviado com sucesso!'}), 200
     
     return jsonify({'status': 'error', 'message': 'Arquivo não permitido. Apenas PDFs são aceitos.'}), 400
@@ -61,4 +76,5 @@ if __name__ == '__main__':
     if not os.path.exists(app.config['UPLOAD_FOLDER']):
         os.makedirs(app.config['UPLOAD_FOLDER'])
     
+    initializeChromaDB()
     app.run(debug=True)
