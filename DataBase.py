@@ -18,7 +18,7 @@ def initializeChromaDB(persist_directory=default_persist_directory):
     try:
         vector_store = Chroma(
             collection_name="Editais_UFPA",
-            embedding_function=OllamaEmbeddings(model="nomic-embed-text:latest"),
+            embedding_function=OllamaEmbeddings(model="llama3.2:1b"),
             persist_directory=persist_directory,
         )
         print(f"Banco de dados vetorial inicializado com sucesso!")

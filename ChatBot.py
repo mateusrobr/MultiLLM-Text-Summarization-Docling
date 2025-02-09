@@ -34,12 +34,12 @@ def chatbot():
         print (f'Contexto: ------------> {context}\n\n')
 
         # Geração de responstas usando múltiplos modelos
-        summaries = generate_response_with_models(models, context, question)
+        #summaries = generate_response_with_models(models, context, question)
 
         # Avaliação e seleção da melhor resposta
-        best_response = evaluate_responses(summaries, question)
+        #best_response = evaluate_responses(summaries, question)
 
-        print(f"ChatBot -> {best_response}")
+        #print(f"ChatBot -> {best_response}")
 
 def main():
     while True:
