@@ -10,38 +10,33 @@ def main_menu():
     print("3 - Sair")
     print("=======================================\n")
 
-def chatbot():
-    print("\n============ Iniciando ChatBot =============")
+def chatbot(message):
+    '''print("\n============ Iniciando ChatBot =============")
     print("ChatBot -> Olá, sou um ChatBot e estou aqui para te ajudar com dúvidas sobre editais da UFPA.")
-    print("Digite 'exit' a qualquer momento para voltar ao menu principal.\n")
+    print("Digite 'exit' a qualquer momento para voltar ao menu principal.\n")'''
     
-    #models = ["tinyllama:1.1b", "falcon:7b", "qwen:4b"]
     models = ["qwen:4b","falcon:7b"]
 
-    while True:
-        question = input("\nVocê -> \n")
-        if question.lower() == "exit":
-            print("\nVoltando ao menu principal...")
-            break
-        retrive = vectorstore.as_retriever(
-            search_type="similarity",
-            search_kwargs={"k": 4}
-        )
+    
 
-        retrive_doc = retrive.invoke(question)
-        context = ' '.join([doc.page_content for doc in retrive_doc])
+    retrive = vectorstore.as_retriever(
+        search_type="similarity",
+        search_kwargs={"k": 4}
+    )
+
+    retrive_doc = retrive.invoke(message)
+    context = ' '.join([doc.page_content for doc in retrive_doc])
         
-        print (f'Contexto: {context}\n\n')
 
-        # Geração de responstas usando múltiplos modelos
-        summaries = generate_response_with_models(models, context, question)
+    # Geração de responstas usando múltiplos modelos
+    summaries = generate_response_with_models(models, context, message)
 
-        # Avaliação e seleção da melhor resposta
-        best_response = evaluate_responses(summaries, question)
+    # Avaliação e seleção da melhor resposta
+    best_response = evaluate_responses(summaries, message)
 
-        print(f"ChatBot -> {best_response}")
+    return best_response
 
-def main():
+'''def main():
     while True:
         main_menu()
         choice = input("Escolha uma opção: ").strip()
@@ -63,8 +58,8 @@ def main():
             break
 
         else:
-            print("\nOpção inválida. Por favor, escolha uma opção válida.")
+            print("\nOpção inválida. Por favor, escolha uma opção válida.")'''
 
-if __name__ == "__main__":
-    main()
+#if __name__ == "__main__":
+    #main()
 
