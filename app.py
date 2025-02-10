@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 import os
 from ChatBot import chatbot
-from DataBase import initializeChromaDB, loadDocuments
+from DataBase import initializeChromaDB, loadAndStoreDocuments
 
 app = Flask(__name__)
 
@@ -65,7 +65,10 @@ def upload_pdf():
         print(filename)
         print(pdf_full_path)
         file.save(filename)
-        loadDocuments(pdf_full_path)
+
+        list_path = []
+        list_path.append(pdf_full_path)
+        loadAndStoreDocuments(list_path)
         
 
         return jsonify({'status': 'success', 'message': 'PDF enviado com sucesso!'}), 200
