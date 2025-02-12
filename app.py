@@ -36,6 +36,7 @@ def send_message():
     
     return jsonify({'status': 'error', 'message': 'Invalid input'}), 400
 
+
 @app.route('/get_messages', methods=['GET'])
 def get_messages():
     return jsonify(chat_history)
@@ -80,4 +81,4 @@ if __name__ == '__main__':
         os.makedirs(app.config['UPLOAD_FOLDER'])
     
     initializeChromaDB()
-    app.run(debug=True)
+    app.run(port=5000, debug=True)
