@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, jsonify
 import os
-from ChatBot import chatbot
-from DataBase import initializeChromaDB, loadAndStoreDocuments
+from Scripts.ChatBot import chatbot
+from Scripts.DataBase import initializeChromaDB, loadAndStoreDocuments
 
 app = Flask(__name__)
 

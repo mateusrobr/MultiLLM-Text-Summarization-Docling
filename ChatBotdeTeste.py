@@ -1,5 +1,5 @@
-from DataBase import loadAndStoreDocuments, initializeChromaDB
-from LLM_summarization import generate_response_with_models, evaluate_responses
+from Scripts.DataBase import initializeChromaDB
+from Scripts.LLM_summarization import generate_response_with_models, evaluate_responses
 
 vectorstore = initializeChromaDB()
 
@@ -16,13 +16,13 @@ def chatbot(message):
     print("Digite 'exit' a qualquer momento para voltar ao menu principal.\n")'''
     
     models = ["qwen:4b","falcon:7b"]
+
     
 
     retrive = vectorstore.as_retriever(
         search_type="similarity",
         search_kwargs={"k": 4}
     )
-
 
     retrive_doc = retrive.invoke(message)
     context = ' '.join([doc.page_content for doc in retrive_doc])

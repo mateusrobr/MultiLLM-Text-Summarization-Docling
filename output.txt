@@ -1,0 +1,1182 @@
+Type: text
+Content: Serviço Público Federal Universidade Federal do Pará Pró-Reitoria de Ensino de Graduação Comissão Permanente de Processos Seletivos
+
+Type: text
+Content: EDITAL Nº 05 – COPERPS, DE 04 DE OUTUBRO DE 2024.
+
+Type: text
+Content: PROCESSO SELETIVO 2025 – PS 2025
+
+Type: text
+Content: A Universidade Federal do Pará (UFPA), por meio da sua Comissão Permanente de Processos Seletivos (COPERPS), torna pública a abertura de inscrições e as normas que regem o Processo Seletivo para o ingresso de discentes nos cursos de graduação presenciais no ano de 2025 – Processo Seletivo 2025 (PS UFPA 2025), nos termos da Resolução Nº 5.810/2024, do Conselho Superior de Ensino, Pesquisa e Extensão (CONSEPE/UFPA); da Lei Nº 9.394/1996, que dispõe sobre as Diretrizes e Bases da Educação Nacional; da Lei Nº 9.784/1999, da Lei Nº 12.711/2012, que dispõe sobre o ingresso nas Universidades Federais e nas Instituições de Ensino Técnico de Nível Médio, alterada pela Lei Nº 13.409/2016, que disciplina sobre a reserva de vagas para Pessoas com Deficiência (PcD), regulamentada pelo Decreto Nº 7.824/2012, pela Lei Nº 14.723/2023, que dispõe sobre o programa especial para o acesso às instituições federais de educação superior e de ensino técnico de nível médio de estudantes pretos, pardos, indígenas e quilombolas e de pessoas com deficiência, bem como daqueles que tenham cursado integralmente o ensino médio ou fundamental em escola pública e pela Lei nº 14.945/2024, pela Portaria Normativa Nº 18/2012, modificada pela Portaria Normativa Nº 09/2017 e pela Portaria Normativa Nº 2.027/2023, ambas do MEC; pela Lei Nº 12.089/2009, que dispõe sobre a proibição da ocupação simultânea de vagas em instituições públicas de ensino superior; pela Instrução Normativa MGI Nº 23/2023, que disciplina a aplicação da reserva de vagas para pessoas negras nos concursos públicos, na forma da Lei Nº 12.990/2014, e reserva de vagas para pessoas negras nos processos seletivos para a contratação por tempo determinado de que trata a Lei Nº 8.745/1993, no âmbito dos órgãos e entidades da administração pública federal direta, autárquica e fundacional; e das demais legislações vigentes e mediante as condições estabelecidas neste Edital.
+
+Type: text
+Content: 1. DAS DISPOSIÇÕES PRELIMINARES
+
+Type: text
+Content: 1.1 O Processo Seletivo 2025 da Universidade Federal do Pará (PS UFPA 2025) será regido pelo presente Edital e executado pelo Centro de Processos Seletivos da Universidade Federal do Pará (CEPS/UFPA).
+
+Type: text
+Content: 1.2 As vagas ofertadas no PS UFPA 2025 são destinadas a candidatos(as) com inscrição homologada no Exame Nacional do Ensino Médio – ENEM, referente ao ano de 2024.
+
+Type: text
+Content: 1.3 Ao(À) candidato(a) que tiver cursado o ensino médio integralmente em escola pública ou privada, em um ou mais dos estados da Região Norte, a saber: Acre, Amapá, Amazonas, Pará, Rondônia, Roraima e Tocantins, será atribuído um bônus de 10% (dez por cento) sobre a nota do ENEM 2024, que resultará do cômputo previsto na alínea “a” do subitem 7.1, caso o(a) candidato(a) tenha solicitado o recebimento do bônus no momento da inscrição, em campo específico.
+
+Type: text
+Content: 1.3.1 Também serão contemplados(as) com o bônus de 10% os(as) candidatos(as) que concluíram o ensino médio por meio de exames de proficiência, devendo o(a) candidato(a) comprovar na habilitação ao vínculo institucional que residiu em um dos estados da Região Norte nos últimos 03 (três) anos (período de 04 de outubro de 2021 a 04 de outubro de 2024).
+
+Type: text
+Content: 1.3.2 É obrigatório que o(a) candidato(a) manifeste sua solicitação de atribuição do bônus de 10% no momento da inscrição, mediante preenchimento do campo específico designado para tal fim. O não preenchimento deste campo resultará na não concessão do bônus, mesmo que o(a) candidato(a) atenda aos critérios estabelecidos neste Edital.
+
+Type: text
+Content: 1.4 O(A) candidato(a), ao realizar sua inscrição, também manifesta concordância quanto à possibilidade de tratamento e processamento de seus dados pessoais, sensíveis ou não, de forma a possibilitar a efetiva execução do processo seletivo, assim como manifesta concordância em relação ao tratamento dos seus dados constantes na base da receita federal, com a aplicação dos critérios de avaliação e seleção, autorizando expressamente a divulgação de seus nomes (civil ou social), números de inscrição, pontuações, colocações e resultados nas provas e etapas, entre outros, em observância aos princípios da publicidade e da transparência que regem a Administração Pública e nos termos da Lei Federal nº 13.709/2018.
+
+Type: text
+Content: 2. DA INSCRIÇÃO NO PROCESSO SELETIVO
+
+Type: text
+Content: 2.1 Para participar do PS UFPA 2025, o(a) candidato(a) deverá efetuar a sua inscrição no Processo Seletivo, admitida exclusivamente via internet, no endereço eletrônico www.ceps.ufpa.br.
+
+Type: text
+Content: 2.1.1 A abertura das inscrições será às 14h do dia 16 de outubro de 2024 e o encerramento será às 17h do dia 18 de novembro de 2024.
+
+Type: text
+Content: 2.1.2 Antes da inscrição, o(a) candidato(a) deverá ler atenta e integralmente o Edital do Processo Seletivo e assinalar a sua concordância no formulário eletrônico de inscrição (Termo de Concordância com o Edital) com o teor deste documento, não cabendo, posteriormente, interposição de recursos ou alegação de desconhecimento das informações dispostas no Edital.
+
+Type: text
+Content: 2.1.3 O(A) candidato(a) poderá alterar suas informações no Formulário de Inscrição, com exceção do nome civil, número de CPF e data de nascimento, até o último dia da inscrição, observando o prazo descrito no subitem 2.1.1.
+
+Type: text
+Content: 2.2 No processo de inscrição, o(a) candidato(a) deverá, primeiramente, cadastrar-se no endereço eletrônico www.ceps.ufpa.br, preenchendo, em seguida, o formulário eletrônico de inscrição, seguindo as instruções ali contidas. O(A) candidato(a) transgênero (pessoa que não se identifica plenamente com o gênero atribuído culturalmente ao seu sexo biológico) que desejar atendimento pelo nome social (aquele pelo qual transexuais e travestis se identificam e são socialmente reconhecidos(as)), poderá solicitá-lo no Sistema de Inscrição, até o último dia de inscrição, observados os prazos previstos no subitem 2.1.1.
+
+Type: text
+Content: 2.2.1 Para o uso do nome social, no ato da inscrição, o(a) candidato(a) transexual ou travesti deverá requerer ser identificado(a) pelo nome social em todas as etapas deste processo seletivo, nome que será usado em todas as listas de divulgação de candidatos(as) classificados(as), listas de convocação e demais etapas relacionadas à matrícula na instituição.
+
+Type: text
+Content: 2.3 As informações prestadas pelo(a) candidato(a) no Formulário Eletrônico de Inscrição serão de sua inteira responsabilidade, dispondo o Centro de Processos Seletivos (CEPS/UFPA) do direito de excluir do Processo Seletivo aquele(a) que não fornecer suas informações corretamente.
+
+Type: text
+Content: 2.4 Haverá cobrança de taxa de inscrição, no valor de R$100,00 (Cem Reais), aos(às) candidatos(as) que tiverem cursado o ensino médio, total ou parcialmente, em escola privada, sem bolsa de estudo ou com bolsa parcial.
+
+Type: text
+Content: 2.5 O(A) candidato(a) deverá efetuar o pagamento da taxa de inscrição por meio de boleto bancário, seguindo as instruções contidas no próprio documento (boleto).
+
+Type: text
+Content: 2.5.1 Logo após o preenchimento do formulário eletrônico de inscrição, o boleto bancário estará disponível para impressão e pagamento.
+
+Type: text
+Content: 2.5.2 O pagamento da taxa de inscrição deverá ser efetuado até o dia 02 de dezembro de 2024.
+
+Type: text
+Content: 2.5.3 A inscrição somente será confirmada após o processamento do pagamento da taxa de inscrição pelo Banco do Brasil, salvo para os(as) candidatos(as) mencionados(as) no item 3 deste Edital.
+
+Type: text
+Content: 2.5.4 O agendamento de boleto não garante a confirmação da inscrição. É de responsabilidade do(a) candidato(a) acompanhar e garantir que o pagamento do boleto seja efetivado, sob pena de sua inscrição não ser apta à homologação.
+
+Type: text
+Content: 2.5.5 A homologação da inscrição será efetuada somente após o recebimento da nota do(a) candidato(a) no ENEM 2024, disponibilizada pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP). A verificação junto ao INEP será realizada com base no número de CPF fornecido pelo(a) candidato(a) no formulário de inscrição.
+
+Type: text
+Content: 2.5.6 Participantes do ENEM 2024 na condição de treineiros não terão sua inscrição homologada.
+
+Type: text
+Content: 2.6 O Centro de Processos Seletivos (CEPS/UFPA) não se responsabilizará por solicitação de inscrição não recebida por motivo de ordem técnica de computadores, falha de comunicação, congestionamento de linhas de comunicação, falta de energia elétrica, bem como por outros fatores que impossibilitem a transferência de dados, exceto nos casos em que tenham sido comprovadamente causados pela UFPA.
+
+Type: text
+Content: 2.7 Salvo caso de cancelamento ou de anulação do Processo Seletivo, em hipótese alguma, será devolvido o valor da taxa de inscrição.
+
+Type: text
+Content: 3. DA ISENÇÃO DE TAXA DE INSCRIÇÃO
+
+Type: text
+Content: 3.1 A UFPA garante isenção total da taxa de inscrição aos(às) candidatos(as) que comprovarem ter concluído, ou estar concluindo em 2024, o Ensino Médio, ou equivalente, integralmente em escola da rede pública, ou que tenham sido bolsistas integrais em escola da rede privada durante os três anos do Ensino Médio. No entanto, essa isenção não confere automaticamente o direito de concorrer a vagas de cotas específicas.
+
+Type: text
+Content: 3.2 O(A) candidato(a) que pleitear a isenção da taxa referida no subitem 3.1 deverá fazê-lo no ato da sua inscrição, ao preencher o formulário de inscrição disponível no endereço eletrônico www.ceps.ufpa.br, no período de 14h do dia 16 de outubro de 2024 até as 17h do dia 18 de novembro de 2024.
+
+Type: text
+Content: 3.3 O(A) candidato(a) que tiver cursado o ensino médio ou equivalente, total ou parcialmente, em escola privada, como bolsista integral, e pleitear a isenção do pagamento da taxa de inscrição deverá enviar, por meio de link específico, no endereço eletrônico www.ceps.ufpa.br, cópia de declaração comprobatória da bolsa integral.
+
+Type: text
+Content: 3.4 Nos casos em que o(a) candidato(a) tiver cursado o ensino médio parcialmente em escola privada com bolsa integral, será necessário anexar, além da documentação indicada no subitem 3.3, histórico do ensino médio.
+
+Type: text
+Content: 3.5 Candidatos(as) que concorrem em qualquer um dos grupos de vagas reservados ao sistema de cotas terão a isenção da taxa de inscrição concedida automaticamente após a confirmação e finalização do processo de inscrição.
+
+Type: text
+Content: 3.6 A publicação do resultado preliminar sobre a concessão ou não da isenção da taxa de inscrição estará disponível para consulta a partir do dia 21 de novembro de 2024, no endereço eletrônico www.ceps.ufpa.br.
+
+Type: text
+Content: 3.7 Após a publicação do resultado preliminar da isenção, caso indeferido(a), o(a) candidato(a) poderá interpor recurso de acordo com as orientações dispostas no subitem 15.2, alínea a).
+
+Type: text
+Content: 3.8 A publicação do resultado definitivo sobre a concessão ou não da isenção da taxa de inscrição estará disponível para consulta após o período recursal, no endereço eletrônico www.ceps.ufpa.br.
+
+Type: text
+Content: 3.9 No caso de indeferimento definitivo da solicitação de isenção, o(a) candidato(a) deve efetuar o pagamento da taxa de inscrição no prazo estabelecido no boleto de pagamento.
+
+Type: text
+Content: 3.10 O(A) candidato(a) isento(a) de pagamento da taxa de inscrição, conforme especificado no subitem 3.1 deste Edital, poderá, a qualquer momento, ser convocado(a) a comprovar as informações prestadas, sob pena de responder por crime contra a fé pública, além de responder pelo disposto no parágrafo único do artigo 10 do Decreto No 83.936/1979.
+
+Type: text
+Content: 4. DAS VAGAS E DOS GRUPOS DE INGRESSO
+
+Type: text
+Content: 4.1 Serão ofertadas no PS UFPA 2025 7.468 (sete mil, quatrocentos e sessenta e oito) vagas em cursos presenciais de graduação da UFPA, acrescidas de 200 (duzentas) vagas adicionais reservadas e destinadas a pessoas com deficiência (PcD). O Quadro 1, a seguir, informa quais candidatos(as) são destinatários(as) de cada conjunto de vagas e as condições de concorrência, considerando o processamento previsto na Portaria Normativa nº 2.027/2023 - MEC.
+
+Type: text
+Content: Quadro 1: Grupos de vagas e seus destinatários.
+
+Type: table
+Content: <table><thead><tr><th>GRUPOS DE VAGAS</th><th>DESTINATARIOS(AS)</th><th>(g}</th><th>- 7</th></tr></thead><tbody><tr><td>AMPLA CONCORRENCIA (AC)</td><td>Todos(as) os(as) candidatos(as), independentemente de origem escolar publica ou privada, ou condigdo socioecondmica.</td><td></td><td></td></tr><tr><td>COTA ADICIONAL PcD (PCDA)</td><td>Candidatos(as) que sdo pessoas com deficiéncia (PcD), independentemente de origem escolar publica ou privada, ou condigdo socioeconémica.</td><td></td><td></td></tr><tr><td></td><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica;</td><td></td><td></td></tr><tr><td>COTA ESCOLA (E)</td><td>Candidatos(as) que cursaram escolas comunitdrias que atuam no dmbito da educagdo do campo conveniada com o poder publico; Candidatos(as) que tenham cursado integralmente o ensino médio no ambito da modalidade Educagdo de Jovens e Adultos - EJA, ou tenham obtido certificado de conclusdo com base no resultado do Exame Nacional do Ensino Médio — ENEM, do Exame Nacional para Certificagdo de Competéncias de Jovens e Adultos — ENCCEJA, ou de exames de certificagdo de competéncia ou de avaliagdo de jovens e adultos realizados pelos sistemas estaduais de ensino.</td><td></td><td></td></tr><tr><td>COTA ESCOLA PcD (EPCD)</td><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica ou que cursaram escolas comunitdrias que atuam no ambito da educagdo do campo conveniada com o poder publico ou que tenham cursado integralmente o ensin médio no ambito da modalidade Educagdo de Jovens e Adultos - EJA, ou tenham obtido certificado de conclusdo com base no resultado do Exame Nacional do Ensino Médio —| ENEM, do Exame Nacional para Certificagdo de Competéncias de Jovens e Adultos — ENCCEJA, ou de exames de certificagdo de competéncia ou de</td><td></td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th>GRUPOS DE VAGAS</th><th>DESTINATARIOS(AS)</th><th>(= o</th><th>- 7</th></tr></thead><tbody><tr><td></td><td>avaliado de jovens e adultos realizados pelos sistemas estaduais de ensino e sdo pessoas com deficiéncia (PcD).</td><td></td><td></td></tr><tr><td>COTAESCOLAQ (EQ)</td><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica ou que cursaram escolas comunitdrias que atuam no ambito da educagdo do campo conveniada com o poder publico ou que tenham cursado integralmente o ensino médio no mbito da modalidade Educagdo de Jovens e Adultos - EJA, ou tenham obtido certificado de conclusdo com base no resultado do Exame Nacional do Ensino Médio — ENEM, do Exame Nacional para Certificagdo de Competéncias de Jovens e Adultos — ENCCEJA, ou de exames de certificagdo de competéncia ou de avaliado de jovens e adultos realizados pelos sistemas estaduais de ensino e autodeclaram-se pessoas quilombolas.</td><td></td><td></td></tr><tr><td>COTA ESCOLA PPI (EPPI)</td><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica ou que cursaram escolas comunitdrias que atuam no ambito da educagdo do campo conveniada com o poder publico ou que tenham cursado integralmente o ensino médio no mbito da modalidade Educagdo de Jovens e Adultos - EJA, ou tenham obtido certificado de conclusdo com base no resultado do Exame Nacional do Ensino Médio — ENEM, do Exame Nacional para Certificagdo de Competéncias de Jovens e Adultos — ENCCEJA, ou de exames de certificagdo de competéncia ou de avaliado de jovens e adultos realizados pelos sistemas estaduais de ensino e autodeclaram-se pessoas negras de cor preta ou pessoas negras de cor parda, ou pessoas indigenas (PPI).</td><td></td><td></td></tr><tr><td>COTA ESCOLA RENDA (ER)</td><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica ou que cursaram escolas comunitdrias que atuam no ambito da educagdo do campo conveniada com o poder publico ou que tenham cursado integralmente o ensino médio no ambito da modalidade Educagdo de Jovens e Adultos - EJA, ou tenham obtido certificado de conclusdo com base no resultado do Exame Nacional do Ensino Médio — ENEM, do Exame Nacional para Certificagdo de Competéncias de Jovens e Adultos — ENCCEJA, ou de exames de certificagdo de competéncia ou de avaliado de jovens e adultos realizados pelos sistemas estaduais de ensino e tém renda familiar bruta (sem descontos) mensal inferior ou igual a 1 (um) saldrio-minimo nacional per capita (RENDA).</td><td></td><td></td></tr><tr><td>COTA ESCOLA RENDA PcD (ERPCD)</td><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica ou que cursaram escolas comunitdrias que atuam no ambito da educagdo do campo conveniada com o poder publico ou que tenham cursado integralmente o ensino médio no ambito da modalidade Educagdo de Jovens e Adultos - EJA, ou tenham obtido certificado de conclusdo com base no resultado do Exame Nacional do Ensino Médio —</td><td></td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th>GRUPOS DE VAGAS</th><th>DESTINATARIOS(AS)</th><th>(= o -</th><th>7</th></tr></thead><tbody><tr><td></td><td>ENEM, do Exame Nacional para Certificagdo de Competéncias de Jovens e Adultos — ENCCEJA, ou de exames de certificagdo de competéncia ou de avaliagdo de jovens e adultos realizados pelos sistemas estaduais de ensino, tém renda familiar bruta (sem descontos) mensal inferior ou igual a 1 (um) saldrio-minimo nacional per capita (RENDA) e sdo pessoas com deficiéncia (PcD).</td><td></td><td></td></tr><tr><td>COTA ESCOLA RENDA Q (ERQ)</td><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica ou que cursaram escolas comunitdrias que atuam no ambito da educagdo do campo conveniada com o poder publico ou que tenham cursado integralmente o ensino médio no mbito da modalidade Educagdo de Jovens e Adultos - EJA, ou tenham obtido certificado de conclusdo com base no resultado do Exame Nacional do Ensino Médio — ENEM, do Exame Nacional para Certificagdo de Competéncias de Jovens e Adultos — ENCCEJA, ou de exames de certificagdo de competéncia ou de avaliagdo de jovens e adultos realizados pelos sistemas estaduais de ensino, e que tém renda familiar bruta (sem descontos) mensal inferior ou igual a 1 (um) saldrio-minimo nacional per capita (RENDA) e autodeclaram-se pessoas quilombolas (Q).</td><td></td><td></td></tr><tr><td>COTA ESCOLA, RENDA PPI (ERPPI)</td><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica ou que cursaram escolas comunitdrias que atuam no ambito da educagdo do campo conveniada com o poder publico ou que tenham cursado integralmente o ensino médio no mbito da modalidade Educagdo de Jovens e Adultos - EJA, ou tenham obtido certificado de conclusdo com base no resultado do Exame Nacional do Ensino Médio — ENEM, do Exame Nacional para Certificagdo de Competéncias de Jovens e Adultos — ENCCEJA, ou de exames de certificagdo de competéncia ou de avaliagdo de jovens e adultos realizados pelos sistemas estaduais de ensino, tém renda familiar bruta (sem descontos) mensal inferior ou igual a 1 (um) saldrio-minimo nacional per capita (RENDA) e autodeclaram-se pessoas negras de cor preta ou pessoas negras de cor parda, ou pessoas indigenas (PPI1).</td><td></td><td></td></tr></tbody></table>
+
+Type: text
+Content: 4.2 Como apontado no Quadro 1, todos(as) os(as) candidatos(as) concorrerão às vagas de ampla concorrência (Grupo AC).
+
+Type: text
+Content: 4.3 Além de vagas para a ampla concorrência (Grupo AC), a UFPA destinará vagas para atendimento exclusivo de candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola pública ou que cursaram escolas comunitárias que atuam no âmbito da educação do campo conveniada com o poder público ou que tenham cursado integralmente o ensino médio no âmbito da modalidade Educação de Jovens e Adultos - EJA, ou tenham obtido certificado de conclusão com
+
+Type: text
+Content: base no resultado do Exame Nacional do Ensino Médio – ENEM, do Exame Nacional para Certificação de Competências de Jovens e Adultos – ENCCEJA, ou de exames de certificação de competência ou de avaliação de jovens e adultos realizados pelos sistemas estaduais de ensino, possuem renda familiar bruta (sem descontos) mensal inferior ou igual a 1 (um) salário-mínimo nacional per capita, autodeclaram-se pessoas negras de cor preta ou pessoas negras de cor parda, ou pessoas indígenas, ou pessoas quilombolas e/ou são pessoas com deficiência e vagas adicionais para pessoas com deficiência, independentemente de origem escolar (pública ou privada) ou condição socioeconômica (Grupo PCDA).
+
+Type: text
+Content: 4.4 As vagas descritas no item 4.3 observam o disposto nas Leis Nº 12.711/2012, Nº 13.409/2016, Lei Nº 13.723/2023 e Lei Nº 14.945/2024 e na Portaria Normativa 18/2012 – MEC, alterada pela Portaria Normativa Nº 2.027/2023 - MEC.
+
+Type: text
+Content: 4.4.1 Em atendimento às leis mencionadas no subitem 4.4, no mínimo 50% (cinquenta por cento) das vagas dos cursos de graduação da UFPA, ofertadas neste processo seletivo, por curso/turno/local de oferta), serão reservadas e destinadas a candidatos(as) que tenham cursado integralmente o ensino médio em escolas públicas, que cursaram escolas comunitárias que atuam no âmbito da educação do campo conveniada com o poder público, em cursos regulares ou no âmbito da modalidade Educação de Jovens e Adultos - EJA, ou tenham obtido certificado de conclusão com base no resultado do Exame Nacional do Ensino Médio – ENEM, do Exame Nacional para Certificação de Competências de Jovens e Adultos – ENCCEJA, ou de exames de certificação de competência ou de avaliação de jovens e adultos realizados pelos sistemas estaduais de ensino, desde que não tenham frequentado qualquer parte do ensino médio em escola privada.
+
+Type: text
+Content: 4.4.2 Para a aplicação do disposto no subitem 4.4.1, e conforme o art. 19, inciso I da Lei No 9.394/1996 – LDB, entende-se por escolas públicas aquelas criadas ou incorporadas, mantidas e administradas pelo Poder Público assim como também escolas comunitárias que atuam no âmbito da educação do campo conveniadas com o poder público.
+
+Type: text
+Content: 4.4.3 Adicionalmente, para fins do presente Edital, não atende à condição exigida de “egresso do Sistema Público de Ensino Médio” o(a) candidato(a) que:
+
+Type: text
+Content: a) Não cursou a totalidade do ensino médio no sistema público de ensino;
+
+Type: text
+Content: b) Cursou alguma(s) disciplina(s) ou séries isoladas do ensino médio em escolas particulares, comunitárias, filantrópicas, confessionais ou pertencentes ao Sistema S (Sesc, Senai, Sesi e Senac), independentemente de sua gratuidade ou da percepção de bolsa de estudos, ainda que custeadas pelo Poder Público.
+
+Type: text
+Content: 4.4.4 O(A) candidato(a) que desejar concorrer também às vagas referidas no subitem 4.3, decorrentes da aplicação das Leis No 12.711/2012, alterada pela Lei Nº 14.723/2023 e Lei Nº 13.409/2016, de que trata este Edital, deverá assinalar a sua condição no ato da inscrição.
+
+Type: text
+Content: 4.5 As vagas de cotas raciais são reservadas e destinadas a pessoas negras de cor preta ou pessoas negras de cor parda ou pessoas indígenas (cota PPI) ou pessoas quilombolas, devendo o(a) candidato(a) classificado(a) em cota étnico-racial comprovar sua autodeclaração perante Banca de
+
+Type: text
+Content: Heteroidentificação ou Banca de Verificação da Declaração de Pertencimento, criada para esse fim, nos termos do item 11 do presente Edital.
+
+Type: text
+Content: 4.6 As vagas de cota PcD são reservadas e destinadas a pessoas com deficiência, devendo o(a) candidato(a) classificado(a) comprovar essa condição à Banca Multiprofissional de Verificação PcD, criada para esse fim.
+
+Type: text
+Content: 4.7 O Quadro abaixo apresenta os perfis dos(as) candidatos(as), considerando as disposições da Lei Nº 12.711/2012, alterada pela Lei Nº 14.723/2023, na Lei Nº 14.945/2024, e da Portaria Normativa nº 18/2012, alterada pela Portaria Normativa Nº 2.027/2023 e Resolução Nº 3.883/2009 - CONSEPE.
+
+Type: text
+Content: Quadro 2: Perfil do(a) Candidato(a).
+
+Type: table
+Content: <table><thead><tr><th>DESCRICAO</th><th>PERFIL DO (A) CANDIDATO (A)</th></tr></thead><tbody><tr><td rowspan="3">ESCOLA</td><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica;</td></tr><tr><td>Candidatos(as) que cursaram escolas comunitarias que atuam no ambito da educagdo do campo conveniada com o poder publico;</td></tr><tr><td>Candidatos(as) que tenham cursado integralmente o ensino médio no ambito da modalidade Educagdo de Jovens e Adultos - EJA, ou tenham obtido certificado de conclusdo com base no resultado do Exame Nacional do Ensino Médio — ENEM, do Exame Nacional para Certificacdo de Competéncias de Jovens e Adultos — ENCCEJA, ou de exames de certificagdo de competéncia ou de avaliagdo de jovens e adultos realizados pelos sistemas estaduais de ensino.</td></tr><tr><td>RENDA</td><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica e tém renda familiar bruta (sem descontos) mensal inferior ou igual a 1 (um) saldrio-minimo nacional per capita (RENDA).</td></tr><tr><td rowspan="2">PCD</td><td>Candidatos(as) que sdo pessoas com deficiéncia (PcD), independente de origem escolar;</td></tr><tr><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica e sdo pessoas com deficiéncia (PcD).</td></tr><tr><td>QUILOMBOLAS</td><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica e autodeclaram-se pessoas quilombolas.</td></tr><tr><td>PPI</td><td>Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola publica e autodeclaram-se pessoas negras de cor preta ou pessoas negras de cor parda, ou pessoas indigenas (PPI).</td></tr></tbody></table>
+
+Type: text
+Content: 4.7.1 De acordo com as informações assinaladas no momento da inscrição, o(a) candidato(a) poderá se enquadrar em mais de um perfil, concorrendo assim às vagas dos grupos de concorrência descritos no Anexo I, observando-se os requisitos estabelecidos no presente edital.
+
+Type: text
+Content: 4.8 A apresentação dos documentos comprobatórios listados no presente edital é obrigatória e será feita em chamada própria, após a divulgação da lista de classificados(as) no PS 2025.
+
+Type: text
+Content: 4.8.1 No processo de habilitação ao vínculo institucional, o(a) candidato(a) deverá comprovar o atendimento dos requisitos previstos para o Grupo de Vagas (Quadro 1) em que foi classificado(a).
+
+Type: text
+Content: 4.9 No processo de habilitação ao vínculo institucional, o(a) candidato(a) que tiver efetuado autodeclaração de que é pessoa negra de cor preta ou pessoa negra de cor parda e tiver sido classificado(a) para vaga reservada e destinada às pessoas negras (cota PPI) terá sua autodeclaração avaliada por Banca Heteroidentificação, especificamente designada para esse fim, nos termos do item 11 deste Edital.
+
+Type: text
+Content: 4.10 No processo de habilitação ao vínculo institucional, o(a) candidato(a) que tiver efetuado autodeclaração de que é pessoa indígena e tiver sido classificado(a) para vaga reservada e destinada às pessoas indígenas (cota PPI) terá sua autodeclaração avaliada por Banca de Verificação da Declaração de Pertencimento Indígena, especificamente designada para esse fim, nos termos do item 11 deste Edital.
+
+Type: text
+Content: 4.11 No processo de habilitação ao vínculo institucional, o(a) candidato(a) que tiver se autodeclarado pessoa com deficiência e que tiver sido classificado(a) para vaga reservada e destinada às pessoas com deficiência terá sua documentação verificada por Banca Multiprofissional de Verificação PcD, especificamente designada para esse fim. Nos casos em que a documentação não for suficiente para fechar a análise, o(a) candidato(a) poderá ser convocado(a) para Banca Multiprofissional de Verificação presencial.
+
+Type: text
+Content: 4.12 No processo de habilitação ao vínculo institucional, o(a) candidato(a) que tiver efetuado autodeclaração de que é pessoa quilombola e tiver sido classificado(a) para vaga reservada para esse grupo terá sua autodeclaração avaliada por Banca de Verificação da Declaração de Pertencimento Quilombola, especificamente designada para esse fim, nos termos do item 11 deste Edital.
+
+Type: text
+Content: 4.13 Quando a distribuição das vagas de um curso/turma não alcançar o número mínimo de uma (01) vaga para atendimento dos percentuais de vagas de uma cota específica, os(as) candidatos(as) àquela cota concorrerão apenas às vagas dos demais grupos de vagas em que se enquadram.
+
+Type: text
+Content: 4.14 As vagas disponibilizadas neste Edital poderão ser distribuídas em duas entradas, de acordo com o planejamento de ingresso em cada Curso de Graduação, observando-se as disposições do Anexo II do presente Edital e o Calendário Acadêmico da UFPA, a ser divulgado na página da Pró- Reitoria de Ensino de Graduação (PROEG) da UFPA: www.proeg.ufpa.br.
+
+Type: text
+Content: 5. DO PREENCHIMENTO DAS VAGAS
+
+Type: text
+Content: 5.1 Serão considerados(as) aprovados(as) os(as) candidatos(as) não eliminados(as), com base no item 6.1 e suas alíneas.
+
+Type: text
+Content: 5.1.1 Para efetuar o preenchimento das vagas, os(as) candidatos(as) aprovados(as) serão classificados(as) com base nas notas obtidas no ENEM 2024, conforme estabelecido nos subitens
+
+Type: text
+Content: 1.2 e 1.3 deste Edital.
+
+Type: text
+Content: 5.2 A apuração da classificação iniciará com a distribuição das vagas de ampla concorrência (grupo AC), às quais concorrerão todos(as) os(as) candidatos(as) de todos os grupos. Serão considerados(as) classificados(as) nas vagas de ampla concorrência os(as) candidatos(as) aprovados(as) cuja nota esteja no intervalo do número de vagas destinadas ao grupo de ampla concorrência.
+
+Type: text
+Content: 5.3 Após a distribuição das vagas de ampla concorrência, serão apurados(as) os(as) classificados(as) nas vagas adicionais para PcD e, em seguida, nas vagas reservadas e destinadas às cotas, entre aqueles(as) não classificados(as) na ampla concorrência. Os(As) candidatos(as) serão classificados(as) para o curso a que estiverem concorrendo, em cada opção de grupo de inscrição, observando-se o critério de inclusão progressiva das cotas, conforme na Portaria Normativa Nº 2.027/2023, e serão considerados(as) classificados(as), na opção de modalidade de ingresso, os(as) candidatos(as) aprovados(as) cuja nota esteja no intervalo do número de vagas destinadas ao grupo indicado.
+
+Type: text
+Content: 5.4 Em observância à orientação do Ministério da Educação quanto ao não preenchimento de vagas, as vagas serão ocupadas obedecendo o disposto no quadro a seguir:
+
+Type: table
+Content: <table><thead><tr><th>GRUPO EM QUE A VAGA NAO FOI PREENCHIDA</th><th>12 vai para</th><th>22 vai para</th><th>32 vai para</th><th>42 vai para</th><th>52 vai para</th><th>62 vai para</th><th>72 vai para</th><th>82 vai para</th></tr></thead><tbody><tr><td>ERPPI</td><td>ERQ</td><td>ERPCD</td><td>ER</td><td>EPPI</td><td>EQ</td><td>EPCD</td><td></td><td>AC</td></tr><tr><td>ERQ</td><td>ERPPI</td><td>ERPCD</td><td>ER</td><td>EPPI</td><td>EQ</td><td>EPCD</td><td></td><td>AC</td></tr><tr><td>ERPCD</td><td>ERPPI</td><td>ERQ</td><td>ER</td><td>EPPI</td><td>EQ</td><td>EPCD</td><td></td><td>AC</td></tr><tr><td>ER</td><td>EPPI</td><td>EQ</td><td>EPCD</td><td></td><td>AC</td><td></td><td></td><td></td></tr><tr><td>EPPI</td><td>ERQ</td><td>ERPCD</td><td>ER</td><td>EQ</td><td>EPCD</td><td>E</td><td>AC</td><td></td></tr><tr><td>EQ</td><td>ERPPI</td><td>ERPCD</td><td>ER</td><td>EPPI</td><td>EPCD</td><td>E</td><td>AC</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th>GRUPO EM QUE A VAGA NAO FOI PREENCHIDA</th><th>12 vai para</th><th>22 vai para</th><th>32 vai para</th><th>42 vai para</th><th>52 vai para</th><th>62 vai para</th><th>72 vai para</th><th>82 vai para</th></tr></thead><tbody><tr><td>EPCD</td><td>ERPPI</td><td>ERQ</td><td>ER</td><td>EPPI</td><td>EQ</td><td></td><td>AC</td><td></td></tr><tr><td></td><td>AC</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Type: text
+Content: Quadro 03: Ordem de remanejamento das vagas não preenchidas - considerando o §1 do art. 3º da Lei Nº 12.711/2012, com redação dada pela Lei Nº 14.723/2023.
+
+Type: text
+Content: 5.5 Nos cursos com duas entradas anuais em um mesmo turno (Entrada 1 e Entrada 2), a inscrição dos(as) candidatos(as) se dará no curso/turno de opção.
+
+Type: text
+Content: 5.5.1 A distribuição das vagas de que trata o item 5.5, observará a proporção de 50% de candidatos(as) classificados(as) na Ampla Concorrência e 50% de candidatos(as) classificados(as) nas cotas da reserva legal em cada entrada e será feita em ordem decrescente de nota.
+
+Type: text
+Content: 5.5.2 Em todas as chamadas, a Entrada 1 terá prioridade no preenchimento das vagas.
+
+Type: text
+Content: 5.5.3 Alcançado o limite de vagas na Entrada 1, os(as) candidatos(as) em ordem de classificação subsequente serão automaticamente alocados na Entrada 2, com vagas ainda disponíveis.
+
+Type: text
+Content: 5.5.4 Os (As) candidatos(as) classificados(as) na Entrada 1 poderão solicitar remanejamento para a Entrada 2, desde que o remanejamento não interfira no preenchimento das vagas da Entrada 1, de acordo com as orientações estabelecidas no Edital de Habilitação.
+
+Type: text
+Content: 5.5.5 Quando, na divisão das vagas das entradas, a proporção resultar em número fracionado, a vaga excedente será encaminhada para a Entrada 1, preferencialmente em vaga de reserva legal.
+
+Type: text
+Content: 5.6 A efetiva ocupação da vaga pelo(a) candidato(a) estará condicionada ao cumprimento de todas as exigências, prazos e procedimentos estabelecidos neste Edital e no Edital de Habilitação, depois de divulgado o resultado, e nos demais instrumentos legais e regulamentares que regem este processo seletivo.
+
+Type: text
+Content: 5.7 Os procedimento para o remanejamento de que trata o item 5.5.4 constarão no Edital de Habilitação.
+
+Type: text
+Content: 6. DOS CRITÉRIOS DE ELIMINAÇÃO
+
+Type: text
+Content: 6.1 Estará automaticamente eliminado(a) do Processo Seletivo o(a) candidato(a) que:
+
+Type: text
+Content: a) faltar em, pelo menos, um dia de prova do ENEM 2024;
+
+Type: text
+Content: b) obtiver nota inferior a 500 (quinhentos) na redação do ENEM 2024, numa escala de 0
+
+Type: text
+Content: a 1000;
+
+Type: text
+Content: c) obtiver nota inferior a 400 (quatrocentos) em uma ou mais áreas do ENEM 2024, numa escala de 0 a 1000;
+
+Type: text
+Content: d) não atender aos critérios e/ou procedimentos estabelecidos nos itens 9.3, 9.4, 9.5, 9.6, 9.7.1, 9.10.1, 9.10.2, 9.13, 9.14.1, 11.7, 11.8 e 12.6.2 deste Edital.
+
+Type: text
+Content: 7.DA AVALIAÇÃO DE DESEMPENHO
+
+Type: text
+Content: 7.1 A nota final dos(as) candidatos(as) do PS UFPA 2025 será computada da seguinte forma:
+
+Type: text
+Content: a) média aritmética das notas das cinco provas do ENEM 2024;
+
+Type: text
+Content: b) bônus de 10% (dez por cento) a ser atribuído aos(às) candidatos(as) que tenham cursado todo o ensino médio em escola pública ou privada, em um ou mais dos estados da Região Norte, a saber: Acre, Amapá, Amazonas, Pará, Rondônia, Roraima e Tocantins e aos(às) candidatos(as) que tenham concluído o ensino médio por meio de exames de proficiência, nos termos do subitem 1.3.1 deste Edital.
+
+Type: text
+Content: 7.2 A nota final dos(as) candidatos(as) corresponde à média aritmética que resulta do cômputo previsto na alínea “a” do subitem 7.1, mais a bonificação de 10% (dez por cento), quando atendida a condição prevista na alínea “b” do mesmo subitem.
+
+Type: text
+Content: 7.2.1 O bônus de 10% (dez por cento) incidirá sobre a nota que resultará do cômputo previsto na alínea “a” do subitem 7.1.
+
+Type: text
+Content: 7.3 O(A) candidato(a) que receber o bônus mencionado na alínea “b” do subitem 7.1 deverá comprovar, no ato da habilitação ao vínculo institucional, que atende ao disposto no subitem 1.3 ou no subitem 1.3.1.
+
+Type: text
+Content: 7.3.1 Caso o(a) candidato(a) tenha realizado período de intercâmbio acadêmico durante o ensino médio em instituição não pertencente aos estados da Região Norte não terá direito ao bônus de 10%.
+
+Type: text
+Content: 7.4 A nota final do(a) candidato(a) será expressa até a segunda casa decimal, arredondando-se o número da terceira casa decimal para cima, se este for igual ou superior a 5 (cinco), e para baixo, se for menor que 5 (cinco).
+
+Type: text
+Content: 7.5 As notas brutas não têm caráter classificatório.
+
+Type: text
+Content: 8.DA CLASSIFICAÇÃO E DOS CRITÉRIOS DE DESEMPATE
+
+Type: text
+Content: 8.1 A nota final de cada candidato(a) será calculada conforme o disposto no subitem 7.1.
+
+Type: text
+Content: 8.2 Os(As) candidatos(as) serão classificados(as) por curso de opção, até o limite de vagas, em ordem decrescente da nota final e observando a distribuição dos grupos de vagas.
+
+Type: text
+Content: 8.3 Em caso de empate, a classificação dos(as) candidatos(as) obedecerá, sucessivamente, aos seguintes critérios, considerando-se a edição do ENEM 2024:
+
+Type: text
+Content: I - maior nota em redação;
+
+Type: text
+Content: II - maior nota na prova objetiva da área de Linguagens, Códigos e suas Tecnologias;
+
+Type: text
+Content: III - maior nota na prova objetiva na área de Matemática e suas Tecnologias;
+
+Type: text
+Content: IV - maior idade: maior idade cronológica.
+
+Type: text
+Content: 8.4 A relação de classificados(as) no PS UFPA 2025 será divulgada via internet, no endereço eletrônico www.ceps.ufpa.br, onde os(as) candidatos(as) também poderão ter acesso à pontuação obtida no Processo Seletivo.
+
+Type: text
+Content: 9. DA HABILITAÇÃO AO VÍNCULO INSTITUCIONAL
+
+Type: text
+Content: 9.1 Para ter assegurado o direito à vaga, o(a) candidato(a) deverá cumprir os procedimentos e os prazos especificados no Edital de Habilitação, a ser disponibilizado no endereço eletrônico www.ciac.ufpa.br, quando convocado(a) em qualquer chamada referente ao PS UFPA 2025.
+
+Type: text
+Content: 9.2 No ato da habilitação, o(a) candidato(a) convocado(a) deverá entregar, obrigatoriamente, os documentos exigidos para o Grupo de Vagas (Quadro 1) ao qual foi classificado(a) no Processo Seletivo, conforme descritos no presente Edital e no Edital de Habilitação
+
+Type: text
+Content: 9.3 Será eliminado do certame o(a) candidato(a) que faltar à convocação de qualquer etapa da habilitação ao vínculo institucional.
+
+Type: text
+Content: 9.4 Será eliminado do certame o(a) candidato(a) que não preencher o Sistema de Cadastro Online de Calouros (COC) em período determinado e em conformidade com as disposições do Edital de Habilitação.
+
+Type: text
+Content: 9.5 Será eliminado do certame o(a) candidato(a) que não se apresentar à entrega presencial da documentação em data, horário e local determinados, observadas as disposições do Edital de Habilitação.
+
+Type: text
+Content: 9.6 Será eliminado do certame o(a) candidato(a) autodeclarado(a) negro(a), classificado(a) para vaga destinada às pessoas negras de cor preta ou pessoas negras de cor parda, que não se apresentar à Banca de Heteroidentificação em data, horário e local determinados, observadas as disposições do Edital de Habilitação.
+
+Type: text
+Content: 9.7 Perderá o direito à vaga reservada o(a) candidato(a) autodeclarado(a) PcD classificado(a) para vaga reservada e destinada às Pessoas com Deficiência que não comprovar essa condição a partir dos documentos listados nos itens 12.5, 12.5.1 e 12.5.7, permanecendo na concorrência das vagas destinadas a outras cotas que tenha assinalado no momento da inscrição e das vagas de ampla concorrência.
+
+Type: text
+Content: 9.7.1 Será eliminado do certame o(a) candidato(a) autodeclarado(a) PcD, classificado para vagas destinadas às Pessoas com Deficiência, que não se apresentar, quando convocado(a), à Banca
+
+Type: text
+Content: Multiprofissional de Verificação PcD, em Edital a ser divulgado pelo Centro de Registro e Indicadores Acadêmicos (CIAC/UFPA) ou se enquadrar no item 12.4 e 12.5.2.
+
+Type: text
+Content: 9.8 Perderá o direito à vaga reservada o(a) candidato(a) autodeclarado(a) indígena, classificado(a) para vaga destinada às pessoas que se autodeclaram indígenas, que, no processo de habilitação, não apresentar o original da Declaração de Pertencimento Indígena assinada por autoridades/lideranças de sua respectiva etnia/povo ou lideranças políticas reconhecidas pelo povo indígena do território de origem do(a) candidato(a), ou a cópia de seu Registro Administrativo de Nascimento Indígena (RANI), permanecendo na concorrência das vagas destinadas a outras cotas que tenha assinalado no momento da inscrição e das vagas de ampla concorrência.
+
+Type: text
+Content: 9.9 Perderá o direito à vaga reservada o(a) candidato(a) autodeclarado(a) quilombola, classificado(a) para vaga destinada às pessoas que se autodeclaram quilombolas, que, no processo de habilitação, não apresentar o original da Declaração de Pertencimento Quilombola assinada por autoridades/lideranças de sua respectiva etnia/povo ou lideranças políticas reconhecidas pelo povo indígena do território de origem do(a) candidato(a), permanecendo na concorrência das vagas destinadas a outras cotas que tenha assinalado no momento da inscrição e das vagas de ampla concorrência.
+
+Type: text
+Content: 9.10 Exclusivamente para os(as) candidatos(as) que concluirão o ensino médio antes do período definido para o início das aulas no curso para o qual realizou sua inscrição na UFPA e que ainda não possuem o Certificado de Conclusão do Ensino Médio e Histórico Escolar, será permitido entregar, em substituição aos documentos citados, declaração da escola atestando que concluirá o ensino médio antes do início das aulas no curso para o qual se inscreveu na UFPA.
+
+Type: text
+Content: 9.10.1 Em atenção à exceção prevista no subitem 9.10, deve constar no Certificado de Conclusão do Ensino Médio data anterior ao início das aulas no curso para o qual o(a) candidato(a) se inscreveu na UFPA, sob pena de indeferimento da habilitação do(a) candidato(a).
+
+Type: text
+Content: 9.10.2 O(A) candidato(a) que entregar declaração com previsão de conclusão do ensino médio, conforme descrito nos subitens 9.10 e 9.10.1, deverá assinar, no ato da habilitação, um termo de responsabilidade, comprometendo-se a entregar cópia do Histórico Escolar e do Certificado de Conclusão do Ensino Médio em até 5 (cinco) dias úteis anteriores ao início das aulas do curso para o qual foi classificado(a) na UFPA. Caso não os apresente ao Centro de Registro e Indicadores Acadêmicos (CIAC/UFPA) ou à Secretaria Acadêmica do Campus em que seu curso está vinculado, o(a) candidato(a) será eliminado(a).
+
+Type: text
+Content: 9.11 Será admitida a entrega de documentos necessários à habilitação mediante procuração pública ou particular, devendo esta última ter firma reconhecida em cartório.
+
+Type: text
+Content: 9.11.1 O(A) procurador(a) deverá apresentar, além da procuração, original e cópia de documento de identidade.
+
+Type: text
+Content: 9.12 Os(As) portadores(as) de documentos acadêmicos expedidos no exterior deverão apresentar os referidos documentos traduzidos por tradutor(a) juramentado(a), com o carimbo da Embaixada do Brasil no país de origem e autenticação da SEDUC.
+
+Type: text
+Content: 9.12.1 O(A) candidato(a) que deixar de apresentar quaisquer dos documentos listados ao grupo de vagas em que foi classificado(a) terá sua habilitação indeferida.
+
+Type: text
+Content: 9.13 Nos termos do Art. 2° da Lei N° 12.089/2009, uma mesma pessoa não deve ocupar, na condição de estudante, 2 (duas) vagas, simultaneamente, em cursos de graduação, em instituições públicas de ensino superior. Dessa forma, o(a) candidato(a) que tenha vínculo institucional, como aluno(a), com esta Universidade, ou com outra instituição pública de ensino superior (federal ou estadual), poderá escolher qual vínculo deseja manter após a homologação do processo de habilitação, quando este(a) deverá comprovar o cancelamento do vínculo existente, para que lhe seja assegurada a efetivação do novo vínculo.
+
+Type: text
+Content: 9.13.1 Não terá homologação definitiva o(a) candidato(a) que não apresentar o comprovante de cancelamento do vínculo existente, para que lhe seja assegurada a efetivação do novo vínculo. Caso o(a) candidato(a) não cancele o vínculo anterior, perderá definitivamente o direito à vaga no PS 2025.
+
+Type: text
+Content: 9.14 O(A) candidato(a) que tiver a sua habilitação indeferida poderá recorrer no prazo de 02 (dois) dias úteis, contados a partir da data de indeferimento, devendo formalizar seu recurso nos locais a serem informados no Edital de Habilitação.
+
+Type: text
+Content: 9.14.1 O(A) candidato(a) indeferido(a) por inadequação e/ou falta de documentação geral exigida de todos(as) os(as) candidatos(as) classificados(as) em qualquer grupo de vagas na forma do subitem 4.8, que não recorrer dentro do prazo acima estabelecido, será eliminado(a) do certame. 9.14.2 O(A) candidato(a) indeferido(a) por inadequação e/ou falta de documentação e/ou não cumprimento de requisito(s) específico(s) exigido(s) para o preenchimento de vaga de cota, que não recorrer dentro do prazo acima estabelecido, perderá o direito à vaga reservada, permanecendo na concorrência das vagas destinadas a outras cotas que tenha assinalado no momento da inscrição e das vagas de ampla concorrência para efeito de possíveis chamadas adicionais.
+
+Type: text
+Content: 9.15 O(A) candidato(a) aprovado(a) e classificado(a) em vaga destinada à cota escola, que no ato da habilitação não comprovar que estudou o ensino médio integralmente em escola pública, perderá o direito à referida vaga e será remanejado(a) para lista de espera de chamada adicional (repescagem), concorrendo nas vagas destinadas à ampla concorrência.
+
+Type: text
+Content: 9.16 O(A) candidato(a) aprovado(a) e classificado(a) com a bonificação de 10% que não comprovar, no ato da habilitação, que estudou integralmente o ensino médio, presencial (mesmo que com períodos de ensino remoto emergencial), em escola pública ou privada, em um ou mais dos seguintes estados: Acre, Amapá, Amazonas, Pará, Rondônia, Roraima e Tocantins, perderá o acréscimo do bônus, terá sua nota final recalculada na forma do item 7.1, alínea a), e será remanejado(a) para lista de espera de chamada adicional (repescagem), concorrendo às vagas dos grupos de inscrição. A disposição se estende aos(às) candidatos(as) enquadrados(as) na situação do subitem 1.3.1, referente aos(às) que concluíram o ensino médio por meio de exames de proficiência.
+
+Type: text
+Content: 9.17 O(A) candidato(a) aprovado(a) e classificado(a) em vaga destinada para pessoas negras de cor preta ou pessoas negras de cor parda, que não tiver sua autodeclaração confirmada em procedimento de heteroidentificação, perderá o direito à referida vaga e será remanejado(a) para
+
+Type: text
+Content: lista de espera de chamada adicional (repescagem), permanecendo na concorrência das vagas destinadas a outras cotas que tenha assinalado no momento da inscrição e das vagas de ampla concorrência.
+
+Type: text
+Content: 9.18 O(A) candidato(a) aprovado(a) e classificado(a) em vaga destinada para pessoas indígenas, que não tiver sua autodeclaração confirmada pela Banca de Verificação da Declaração de Pertencimento Indígena, perderá o direito à referida vaga e será remanejado(a) para lista de espera de chamada adicional (repescagem), permanecendo na concorrência das vagas destinadas a outras cotas que tenha assinalado no momento da inscrição e das vagas de ampla concorrência.
+
+Type: text
+Content: 9.19 O(A) candidato(a) aprovado(a) e classificado(a) em vaga destinada para pessoas quilombolas, que não tiver sua autodeclaração confirmada pela Banca de Verificação da Declaração de Pertencimento Quilombola, perderá o direito à referida vaga e será remanejado(a) para lista de espera de chamada adicional (repescagem), permanecendo na concorrência das vagas destinadas a outras cotas que tenha assinalado no momento da inscrição e das vagas de ampla concorrência.
+
+Type: text
+Content: 9.20 O(A) candidato(a) aprovado (a) e classificado(a) em vaga destinada para pessoas com deficiência, concorrente à cota escola pública, que não tiver sua condição confirmada pela Banca Multiprofissional de Verificação, perderá o direito à referida vaga e será remanejado(a) para lista de espera de chamada adicional (repescagem), permanecendo na concorrência das vagas destinadas a outras cotas que tenha assinalado no momento da inscrição e das vagas de ampla concorrência, excluídas as vagas adicionais para pessoas com deficiência.
+
+Type: text
+Content: 9.21 O(A) candidato(a) aprovado(a) e classificado(a) em vaga adicional destinada para pessoas com deficiência, independentemente de origem escolar pública ou privada, que não tiver sua condição confirmada pela Banca Multiprofissional de Verificação, perderá o direito à referida vaga e será remanejado(a) para lista de espera de chamada adicional (repescagem), concorrendo às vagas destinadas à ampla concorrência.
+
+Type: text
+Content: 9.22 O(A) candidato(a) aprovado(a) e classificado(a) em vaga destinada para pessoas de baixa renda, com renda familiar bruta (sem descontos) mensal inferior ou igual a 1 salário-mínimo nacional per capita, que não tiver sua documentação confirmada no procedimento de habilitação, perderá o direito à referida vaga e será remanejado(a) para lista de espera de chamada adicional (repescagem), permanecendo na concorrência das vagas destinadas a outras cotas que tenha assinalado no momento da inscrição e das vagas de ampla concorrência.
+
+Type: text
+Content: 9.23 O(A) candidato(a) que tiver a sua habilitação institucional deferida estará apto(a) a realizar as atividades acadêmicas, devendo buscar as informações necessárias na faculdade responsável pelo seu curso.
+
+Type: text
+Content: 9.24 É de exclusiva responsabilidade do(a) candidato(a) aprovado(a) e não classificado(a) acompanhar, por meio do endereço eletrônico www.ciac.ufpa.br, a convocação à habilitação ao vínculo institucional e novas chamadas, em decorrência da ausência, indeferimentos ou desistência de candidatos(as) classificados(as).
+
+Type: text
+Content: 10. DA APRESENTAÇÃO DOS DOCUMENTOS OBRIGATÓRIOS PARA COMPROVAÇÃO DOS REQUISITOS PARA O VÍNCULO INSTITUCIONAL
+
+Type: text
+Content: 10.1 Todos os(as) candidatos(as), independente da vaga de classificação, devem obrigatoriamente apresentar a documentação abaixo completa (frente e verso), sob pena de indeferimento:
+
+Type: text
+Content: disponível
+
+Type: text
+Content: (https://servicos.receita.fazenda.gov.br/Servicos/CPF/ConsultaSituacao/ConsultaPubli ca.asp);
+
+Type: text
+Content: b) Cédula de Identidade (RG);
+
+Type: text
+Content: c) Certidão de quitação eleitoral (para maiores de 18 anos), disponível aqui (https://www.tse.jus.br/servicos-eleitorais/autoatendimento-eleitoral#/certidoes- eleitor)
+
+Type: text
+Content: d) Comprovante de quitação militar (para pessoas do sexo masculino maiores de 18 anos);
+
+Type: text
+Content: e) Histórico Escolar do Ensino Médio;
+
+Type: text
+Content: f) Certificado de Conclusão do Ensino Médio ou Diploma de Conclusão do Ensino Técnico Integrado ao Médio;
+
+Type: text
+Content: g) Comprovante de energia elétrica;
+
+Type: text
+Content: h) 01 (uma) foto 3x4 recente e de frente, com rosto e ombros completamente enquadrados.
+
+Type: text
+Content: i) Cadastro Acadêmico do Calouro (COC), que deverá ser preenchido on-line, impresso e assinado e estará disponível em www.coc.ufpa.br.
+
+Type: text
+Content: 10.2 Os(As) candidatos(as) aprovados(as) e classificados(as) em vagas de cotas, deverão obrigatoriamente apresentar os seguintes documentos (frente e verso), adicionalmente aos documentos relacionados no subitem 10.1.
+
+Type: text
+Content: 10.2.1 COTA RENDA: Candidatos(as) que cursaram integralmente o ensino médio ou equivalente em escola pública e têm renda familiar bruta (sem descontos) mensal inferior ou igual a 1 salário- mínimo nacional per capita, deverão obrigatoriamente apresentar os seguintes documentos:
+
+Type: text
+Content: a) Cédula de Identidade (RG) de todos os componentes do grupo familiar;
+
+Type: text
+Content: b) CPF de todos os componentes do grupo familiar;
+
+Type: text
+Content: c) Certidão de Nascimento de todos os componentes do grupo familiar que não possuem RG;
+
+Type: text
+Content: possuem RG;
+
+Type: text
+Content: d) Termo de Guarda ou Responsabilidade, para componentes do grupo familiar que são menores de idade, cujos pais não residam no mesmo endereço do grupo familiar informado;
+
+Type: text
+Content: e) Declaração de União Estável, para componentes do grupo familiar declarados em regime de união estável;
+
+Type: text
+Content: f) Cadúnico, para candidatos(as) cujo grupo familiar possua inscrição prévia, deverá ser apresentado o comprovante de inscrição do Cadastro Único para Programas Sociais do Governo Federal, atualizado, gerado exclusivamente no
+
+Type: text
+Content: aqui
+
+Type: text
+Content: site do Ministério do Desenvolvimento Social (MDS) no endereço https://cadunico.dataprev.gov.br/#/home;
+
+Type: text
+Content: g) Carteira de Trabalho e Previdência Social (CTPS), registrada e atualizada, dos componentes do grupo familiar com trabalho formal com CTPS assinada pelo empregador. Devem ser apresentadas as páginas da foto, dos dados de identificação, do último contrato de trabalho e a seguinte em branco, e das páginas de atualização salarial da CTPS com informações salariais atualizadas; h) Declaração de IRPF, acompanhada do recibo de entrega à Receita Federal do Brasil e da respectiva notificação de restituição, quando houver, ou Declaração de isento de IRPF (conforme modelo disponível no Cadastro Online de Calouros), de todos os componentes do grupo familiar;
+
+Type: text
+Content: i) Extratos bancários, pelo menos, dos meses de julho, agosto e setembro de 2024, de todas as contas bancárias (conta corrente e poupança) vinculadas ao(à) candidato(a) e a todos(as) os(as) componentes do grupo familiar. j) Relatório de Contas e Relacionamentos em Bancos (CCS), de todos os componentes do grupo familiar, que mostra em quais bancos e instituições as pessoas tiveram contas ou investimentos, disponível em www.gov.br/pt- br/servicos/gerar-relatorio-de-contas-e-investimentos-ccs
+
+Type: text
+Content: k) Formulário Socioeconômico, disponível em www.ciac.ufpa.br.
+
+Type: text
+Content: 10.3 Caso o(a) candidato(a) ou algum componente familiar não possua conta bancária, ele(a)(s) deverá(ão) emitir Certidão Negativa de Relacionamento com o Sistema Financeiro, disponível em www3.bcb.gov.br/nadaconsta/emitirCertidaoCCS
+
+Type: text
+Content: 10.4 O(A) candidato(a) deverá ainda fornecer documentos específicos, de acordo com a sua atividade profissional ou a de qualquer componente do grupo familiar, conforme definido no ANEXO IV deste Edital.
+
+Type: text
+Content: 10.5 No momento da análise da renda per capita, caso seja detectada alguma inconsistência, poderão ser exigidas outras documentações complementares do(a) candidato(a) ou qualquer componente do grupo familiar.
+
+Type: text
+Content: 10.6 Os documentos escolares expedidos no exterior devem vir com carimbo da Embaixada do Brasil no país de origem dos estudos, ou apostilamento de Haia, tradução juramentada, e devem estar acompanhados de declaração da Secretaria de Educação do Estado que ateste que os estudos realizados são equivalentes ao Ensino Médio brasileiro.
+
+Type: text
+Content: 10.7 Para os(as) candidatos(as) residentes em zona rural que não possuam comprovante de energia elétrica, será aceita Declaração de Residência emitida e assinada por representante legal de Associações, Sindicatos e/ou Colônia, Organizações Religiosas ou Tradicionais. No documento deve constar expressamente o endereço da residência.
+
+Type: text
+Content: 10.8 Não serão aceitas fotografias 3x4 sem as especificações dispostas no item 10.1, alínea h.
+
+Type: text
+Content: 10.9 Para a entrega presencial dos documentos, o(a) candidato(a) deverá imprimir e assinar o arquivo do Sistema Cadastro Online de Calouros, que será gerado em formato PDF após a finalização
+
+Type: text
+Content: do processo de envio dos documentos e preenchimento das informações solicitadas, devendo ser entregue assinado pelo(a) candidato(a).
+
+Type: text
+Content: 10.10 O(A) candidato(a) que recebeu o bônus de 10% previsto no item 1.3 do presente Edital, deverá comprovar, por meio do Histórico Escolar, que cursou todo o Ensino Médio, na modalidade presencial, em Estabelecimento de Ensino localizado nos estados da Região Norte, a saber: Acre, Amapá, Amazonas, Pará, Rondônia, Roraima e Tocantins.
+
+Type: text
+Content: 10.11 O(A) candidato(a) que obteve certificação do ensino médio por meio de exame de proficiência deverá comprovar residência por meio de comprovantes de residência (conta de energia, água e telefone), nos estados da Região Norte (Acre, Amapá, Amazonas, Pará, Rondônia, Roraima e Tocantins), no período de Outubro de 2021 a Outubro de 2024.
+
+Type: text
+Content: 11. DA VERIFICAÇÃO DA AUTODECLARAÇÃO DE PESSOA NEGRA OU INDÍGENA OU QUILOMBOLA
+
+Type: text
+Content: 11.1 A UFPA nomeará Bancas, cujos membros obrigatoriamente devem ter participado de curso de formação sobre a temática da promoção da igualdade racial e do enfrentamento ao racismo, podendo incluir membros externos à UFPA atuantes na causa de direitos étnico-raciais.
+
+Type: text
+Content: 11.2 Os(As) integrantes das Bancas serão organizados(as) em:
+
+Type: text
+Content: a) Bancas de Heteroidentificação para validação da autodeclaração de pessoas negras de cor preta ou pessoas negras de cor parda e;
+
+Type: text
+Content: b) Bancas de Verificação da Declaração de Pertencimento Indígena para validação da autodeclaração de pessoa indígena.
+
+Type: text
+Content: c) Bancas de Verificação da Declaração de Pertencimento Quilombola, para validação da autodeclaração de pessoa quilombola.
+
+Type: text
+Content: 11.2.1 As Bancas de heteroidentificação serão compostas, atendendo ao critério da diversidade, quanto ao sexo e à cor.
+
+Type: text
+Content: 11.2.2 As bancas de verificação da Declaração e Pertencimento Indígena ou Declaração e Pertencimento Quilombola serão compostas atendendo ao critério da diversidade, quanto ao sexo e cor ou etnia.
+
+Type: text
+Content: 11.3 As Bancas Recursais serão compostas por 03 (três) membros distintos das pessoas que compõem a primeira banca de verificação da autodeclaração, atendendo ao mesmo critério de composição dessa primeira banca.
+
+Type: text
+Content: 11.4 O(A) candidato(a) inscrito(a) com autodeclaração de que é pessoa negra de cor preta ou negra de cor parda e classificado(a) em cota PPI, quando convocado(a), deverá apresentar-se presencialmente à Banca de Heteroidentificação, em data, horário e local a serem informados em convocação a ser divulgada no endereço eletrônico www.ciac.ufpa.br, para participar do processo de validação presencial da sua autodeclaração.
+
+Type: text
+Content: 11.5 Para validar a autodeclaração de candidatos(as) negros(as) de cor preta ou negros(as) de cor parda, será considerado única e exclusivamente o fenótipo negro como base para análise e validação.
+
+Type: text
+Content: 11.5.1 O fenótipo social da pessoa negra de cor preta ou da pessoa negra de cor parda é entendido como o conjunto de características físicas do indivíduo que, combinadas ou não, permitam que o(a) candidato(a) seja socialmente reconhecido(a) como sendo uma pessoa negra, tais como: a cor da pele, a textura do cabelo e os aspectos faciais.
+
+Type: text
+Content: 11.5.2 As características fenotípicas descritas são as que possibilitam, nas relações sociais, o reconhecimento do indivíduo como negro, deixando-o vulnerável a discriminações, ofensas, agressões e a perdas de oportunidades sociais e/ou profissionais.
+
+Type: text
+Content: 11.5.3 Não serão utilizados pela Banca de Heteroidentificação quaisquer outros critérios que não sejam fenotípicos, inclusive considerações sobre a ascendência do(a) candidato(a) (parentesco), nem informações contidas em quaisquer documentos.
+
+Type: text
+Content: 11.6 À Banca de Heteroidentificação, o(a) candidato(a) entregará a autodeclaração, em modelo disponível no Edital de habilitação, integralmente preenchida e inserida no Cadastro Online do(a) Calouro(a) (COC), no período da habilitação ao vínculo institucional.
+
+Type: text
+Content: 11.7 O procedimento de heteroidentificação poderá ser filmado e a filmagem poderá ser utilizada na análise de eventuais recursos interpostos contra a decisão da banca. O(A) candidato(a) que se recusar à filmagem será eliminado(a) do processo seletivo.
+
+Type: text
+Content: 11.8 O(A) candidato(a) classificado(a) em vaga destinada à pessoa negra de cor preta ou pessoa negra de cor parda, que não se apresentar à Banca de Heteroidentificação em data, horário e local determinados, será eliminado(a) do certame, observadas as disposições do Edital de Habilitação.
+
+Type: text
+Content: 11.9 A habilitação do(a) candidato(a) inscrito(a) com autodeclaração de que é pessoa negra de cor preta ou negra de cor parda e classificado(a) em cota PPI estará condicionada à validação pela Banca de Heteroidentificação, cujo resultado será publicado em Edital disponibilizado no endereço eletrônico do Centro de Registro e Indicadores Acadêmicos (CIAC/UFPA): www.ciac.ufpa.br.
+
+Type: text
+Content: 11.9.1 O parecer de avaliação da Banca de Heteroidentificação, contendo a motivação da validação ou não validação da condição autodeclarada, será disponibilizado ao(à) candidato(a), observando as orientações do Edital de Habilitação ao vínculo institucional.
+
+Type: text
+Content: 11.9.2 O parecer de avaliação da Banca de Heteroidentificação não será fornecido para terceiros nem por meio diverso do previsto neste Edital.
+
+Type: text
+Content: 11.10 O(A) candidato(a) inscrito(a) com autodeclaração de que é indígena e classificado(a) em cota PPI deverá inserir no Cadastro Online do(a) Calouro(a) (COC), no período da habilitação ao vínculo institucional, sua Declaração de Pertencimento Étnico assinada por autoridades/lideranças de sua respectiva etnia/povo ou lideranças políticas reconhecidas pelo povo indígena do território de origem do(a) candidato(a).
+
+Type: text
+Content: 11.11 A autodeclaração de pertencimento étnico de candidatos(as) indígenas será analisada pela Banca de Verificação da Declaração de Pertencimento Indígena, considerando os critérios estabelecidos no subitem 11.10.
+
+Type: text
+Content: 11.12 A habilitação do(a) candidato(a) inscrito(a) com autodeclaração de que é indígena e classificado(a) em cota PPI estará condicionada à validação pela Banca de Verificação de Declaração de Pertencimento Indígena cujo resultado será publicado em Edital disponibilizado no endereço eletrônico do Centro de Registro e Indicadores Acadêmicos (CIAC/UFPA): www.ciac.ufpa.br.
+
+Type: text
+Content: 11.12.1 O parecer de avaliação da Banca de Verificação de Declaração de Pertencimento Indígena contendo a motivação da validação ou não validação da condição autodeclarada será disponibilizado ao(à) candidato(a), observando as orientações do Edital de Habilitação ao vínculo institucional.
+
+Type: text
+Content: 11.12.2 O parecer da Banca de Verificação da Declaração de Pertencimento Indígena não será fornecido para terceiros nem por meio diverso do previsto neste Edital.
+
+Type: text
+Content: 11.13 O(A) candidato(a) inscrito(a) com autodeclaração de pessoa quilombola e classificado(a) em cota destinada a esse grupo deverá inserir no Cadastro Online do(a) Calouro(a) (COC), no período da habilitação ao vínculo institucional, sua Declaração de Pertencimento com informações sobre pertencimento e residência ou não do(a) candidato(a) na comunidade, emitida e assinada por três membros da atual Diretoria da Associação que representa legalmente a comunidade, fornecendo- se os números de RG e/ou CPF das respectivas lideranças.
+
+Type: text
+Content: 11.14 Os recursos relacionados aos resultados da Banca de Verificação da Autodeclaração Étnico- Racial serão estabelecidos no Edital de Habilitação a ser divulgado pelo Centro de Registro e Indicadores Acadêmicos (CIAC/UFPA), sendo de responsabilidade exclusiva do(a) candidato(a) acompanhar a publicação das listagens de homologação.
+
+Type: text
+Content: 12. DA VERIFICAÇÃO DA AUTODECLARAÇÃO DE PESSOA COM DEFICIÊNCIA (PcD)
+
+Type: text
+Content: 12.1 A Comissão Multiprofissional de Verificação (CMV) designará as Bancas Multiprofissionais de Verificação (BMV), compostas por, no mínimo, 3 (três) profissionais que contemplem as áreas da saúde, psicoeducacional e técnico de acessibilidade para análises documentais e presenciais.
+
+Type: text
+Content: 12.2 A Banca Multiprofissional de Verificação avaliará os documentos apresentados pelo(a) candidato(a), no período de habilitação a ser divulgado pelo Centro de Registro e Indicadores Acadêmicos (CIAC/UFPA), para fins de comprovação da condição de pessoa com deficiência, à luz da legislação vigente, podendo, caso necessário, por meio de Edital a ser divulgado pelo CIAC (www.ciac.ufpa.br), convocar os(as) candidatos(as) para realização de avaliação biopsicossocial presencial.
+
+Type: text
+Content: 12.2.1 A Banca Multiprofissional de Verificação presencial contará, obrigatoriamente, com a presença de 1 (um) médico especialista, dentre os profissionais de saúde de acordo com o tipo de
+
+Type: text
+Content: deficiência alegada pelo(a) candidato(a), que terá como finalidade complementar e/ou comprovar as informações constantes na documentação específica apresentada no período de habilitação.
+
+Type: text
+Content: 12.3 Somente poderão concorrer às vagas reservadas e destinadas para Pessoa com Deficiência (PcD) os(as) candidatos(as) que se enquadram nessa condição, de acordo com a legislação vigente, definida conforme Art. 4º do Decreto No 3.298/1999, Art. 5º, §1º do Decreto No 5.296/2004, Art. 2º do Decreto No 5.626/2005, Art. 1º, §§1º e 2º da Lei No 12.764/2012, Art. 2º da Lei N.o 13.146/2015; Lei No 14.126/2021 e Lei Nº 14.768/2023.
+
+Type: text
+Content: 12.3.1 As Pessoas com Deficiência, de acordo com a legislação vigente, são pessoas com deficiência física, pessoas com deficiência sensorial auditiva (surdas, surdocegas, com deficiência auditiva bilateral, deficiência auditiva unilateral total), pessoas com deficiência sensorial visual (cegas, com baixa visão ou visão monocular), pessoas com deficiência intelectual, pessoas com Transtorno do Espectro do Autismo ou pessoas com deficiência múltipla.
+
+Type: text
+Content: 12.3.2 As especificidades de cada tipo de deficiência são:
+
+Type: text
+Content: a) Pessoa com Deficiência Física: Pessoa com alteração completa ou parcial de um ou mais segmentos do corpo humano, acarretando o comprometimento da função física, apresentando-se sob a forma de paraplegia, paraparesia, monoplegia, monoparesia, tetraplegia, tetraparesia, triplegia, triparesia, hemiplegia, hemiparesia, ostomia, amputação ou ausência de membro, paralisia cerebral, nanismo, membros com deformidade congênita ou adquirida, exceto as deformidades estéticas e as que não produzam dificuldades locomotoras para o desempenho das funções da pessoa;
+
+Type: text
+Content: b) Pessoa com Deficiência Auditiva: Pessoa com perda de longo prazo da audição, unilateral total ou bilateral parcial ou total com valor de referência da limitação auditiva de 41 decibéis (dB) ou mais, aferida por audiograma nas frequências de 500Hz, 1.000Hz, 2.000Hz e 3.000Hz.
+
+Type: text
+Content: c) Pessoa surda: Pessoa usuária da Língua brasileira de sinais (Libras), com perda auditiva bilateral, parcial ou total, de 41 decibéis (dB) ou mais, aferida por audiograma nas frequências de 500Hz, 1.000Hz, 2.000Hz e 3.000Hz.
+
+Type: text
+Content: d) Pessoa com Surdocegueira: Pessoa que apresenta associações com cegueira congênita e surdez adquirida; surdez congênita e cegueira adquirida; cegueira e surdez congênitas; cegueira e surdez adquiridas; baixa visão com surdez congênita; e baixa visão com surdez adquirida.
+
+Type: text
+Content: e) Pessoa com Deficiência Visual (cegueira total): Pessoa que apresenta acuidade visual igual ou menor que 0,05 (20/400) no melhor olho, com a melhor correção óptica.
+
+Type: text
+Content: f) Pessoa com baixa visão: apresenta acuidade visual entre 0,3 (20/60) e 0,05 (20/400) no melhor olho, com a melhor correção óptica; os casos nos quais a somatória da medida do campo visual em ambos os olhos for igual ou menor que 60°, ou a ocorrência simultânea de quaisquer das condições anteriores.
+
+Type: text
+Content: g) Pessoa com visão monocular: caracterizada quando a pessoa tem visão igual ou inferior a 20% em um dos olhos, enquanto no outro mantém visão normal.
+
+Type: text
+Content: h) Pessoa com Deficiência Intelectual: Pessoa com déficits nas funções intelectuais inferior à média, concomitante a déficits do comportamento adaptativo, em habilidades conceitual, social e prático (comunicação, autocuidado, habilidades acadêmicas), iniciados durante o período de desenvolvimento (antes dos 18 anos).
+
+Type: text
+Content: i) Pessoa com Transtorno do Espectro do Autismo: Pessoa com deficiência persistente e significativa na comunicação e na interação social em múltiplos contextos, presença de padrões restritos e repetitivos de comportamento/interesses/atividades, registrados por meio de especificadores gerais (com ou sem comprometimento intelectual ou de linguagem concomitantes; associado a alguma condição médica ou genética conhecida ou a fator ambiental) ou que descrevem, por exemplo a gravidade por níveis: Nível 1 (Exige apoio), Nível 2 (Exige apoio substancial) e Nível 3 (Exige Apoio muito substancial).
+
+Type: text
+Content: j) Pessoa com Deficiência Múltipla: Pessoa que apresenta associação de duas ou mais deficiências.
+
+Type: text
+Content: 12.4 Não poderão concorrer às vagas reservadas e destinadas às Pessoas com Deficiência aqueles(as) que apresentam diagnósticos, apenas, de transtornos do neurodesenvolvimento (Transtornos Específicos de Aprendizagem – TEAp com prejuízos na leitura, escrita e matemática definidos anteriormente como Dislexia, Disgrafia e Discalculia; Distúrbios do Processamento Auditivo Central – DPAC; Transtorno do Déficit de Atenção e Hiperatividade – TDAH e outros) e/ou diagnósticos de transtornos mentais (Esquizofrenia, Transtorno Bipolar, Transtornos de Conduta, Transtorno de Ansiedade, Depressão e outros transtornos mentais) que não se enquadram na legislação vigente como Pessoa com Deficiência.
+
+Type: text
+Content: 12.5 O(a) candidato(a) inscrito(a) e classificado(a) em vaga reservada ou adicional e destinada a PcD, qualquer que tenha sido o sistema de concorrência ou grupo da vaga de ingresso, deverá, no período de habilitação a ser divulgado pelo Centro de Registro e Indicadores Acadêmicos (CIAC/UFPA), comprovar sua condição com Laudo Médico e documentos complementares (avaliações, relatórios, pareceres ou exames), assim como preencher a Declaração Biopsicossocial/PcD (modelo fornecido no período de habilitação a ser divulgado pelo CIAC/UFPA).
+
+Type: text
+Content: 12.5.1 O Laudo Médico deverá ter sido emitido nos últimos 12 (doze) meses, com nome, assinatura e carimbo do(a) médico(a) especialista, atestando a espécie, grau, tipo ou nível da deficiência, com expressa referência ao código correspondente da Classificação Internacional de Doenças (CID-10 ou CID-11), bem como sua provável causa, devendo estar legível o nome e carimbo do(a) médico(a) com o número do Conselho Regional de Medicina (CRM) ou Registro Único do Ministério da Saúde (RMS).
+
+Type: text
+Content: 12.5.1.1 O Laudo Médico para candidato(a) com Transtorno do Espectro do Autismo (TEA) poderá ter período superior a 12 meses, de acordo com a Lei Estadual Nº 9.214/2021- PA.
+
+Type: text
+Content: 12.5.2 Não serão considerados/reconhecidos, candidatos(as) com deficiência aqueles que apresentarem laudos médicos contendo:
+
+Type: text
+Content: a) informações inconclusivas, em processo de investigação e/ou hipótese diagnóstica.
+
+Type: text
+Content: b) apenas CID de doenças (causa) para os casos de comprovação de deficiência física. Nesses casos é necessário constar no laudo médico, também, o CID do tipo da deficiência, que resultou da doença alegada, listada no item 12.3.2, “a”. c) CIDs descritos no item 12.4.
+
+Type: text
+Content: c) CIDs descritos no item 12.4.
+
+Type: text
+Content: d) validação do tipo de deficiência, por médicos(as) com registros inativos no CRM ou no RMS, considerando a data do laudo ou relatório emitido. e) validação do tipo de deficiência, por médicos sem especialidade no tipo de deficiência do candidato (a), como indicado no item 12.5.5 e 12.5.6.
+
+Type: text
+Content: 12.5.3 O(A) candidato(a) não poderá substituir o laudo médico por extratos bancários do INSS, para quem é beneficiário do Benefício de Prestação Continuada (BPC), ou por carteiras de identificação emitidas por instituições ou associações dos coletivos de pessoas com deficiência ou por apresentação de cordões de girassol ou de quebra-cabeças, para fins de comprovação da condição de pessoa com deficiência no certame. Podendo ser, apenas, considerado como documento complementar.
+
+Type: text
+Content: 12.5.4 Para fins do presente Edital, poderá ser utilizado como Modelo de Laudo Médico o documento constante no link: http://ciac/index.php/documentacao-para-vinculo.
+
+Type: text
+Content: 12.5.5 Para fins do presente Edital, orienta-se que os laudos médicos sejam assinados por especialistas do tipo de deficiência do candidato, a saber:
+
+Type: text
+Content: a) Ortopedistas/traumatologistas, reumatologistas, fisiatras, neurologistas ou
+
+Type: text
+Content: angiologistas, para casos de deficiência física;
+
+Type: text
+Content: b) Otorrinolaringologistas, para casos de deficiência auditiva;
+
+Type: text
+Content: c) Oftalmologistas, para casos de deficiência visual;
+
+Type: text
+Content: d) Psiquiatras ou Neurologistas para casos de Transtorno do Espectro do
+
+Type: text
+Content: Autismo e Deficiência intelectual.
+
+Type: text
+Content: 12.5.6 Será aceito laudo médico assinado por Pediatras, para os casos de Transtorno do Espectro do Autismo, considerando que não há prazo para laudos de Autismo neste Edital, de acordo com o que prevê o item 12.5.1.1.
+
+Type: text
+Content: 12.5.7 Os documentos complementares devem comprovar o que especifica o laudo médico e/ou as características que subsidiam ou esclarecem a causa, o grau, nível ou tipo, de acordo com a especificidade da deficiência declarada pelo(a) candidato(a), a saber:
+
+Type: text
+Content: a) Deficiência física: exames radiológicos, exames neurológicos (neuroimagem, eletroencefalograma ou eletroneuromiografia), ultrassonografia, exame físico (tipo de deambulação, medidas antropométricas da estrutura do corpo, parecer funcional de fisioterapeutas ou terapeutas ocupacionais) avaliação de grau de força, amplitude de movimento, impactos nas atividades diárias e/ou outros documentos necessários que comprovem o tipo, nível ou grau da deficiência declarada
+
+Type: text
+Content: b) Deficiência auditiva ou surdos: exame de audiometria.
+
+Type: text
+Content: c) Deficiência visual: exame de acuidade visual e/ou do campo visual – campimetria.
+
+Type: text
+Content: d) Surdocego: exame de audiometria e Exame de acuidade visual e/ou do campo visual (campimetria).
+
+Type: text
+Content: e) Deficiência intelectual: avaliação neuropsicológica com testes padronizados para avaliar o funcionamento cognitivo e adaptativo e/ou outras avaliações/relatórios, pareceres e relatórios emitido por uma equipe multiprofissional (Psicólogo, Terapeuta ocupacional, Fonoaudiólogo, Psicopedagogo, Pedagogo) que possam subsidiar o Laudo médico.
+
+Type: text
+Content: f) Transtorno do Espectro do Autismo: Avaliação Neuropsicológica e/ou documentos multiprofissionais, podendo ser: Laudo Psicológico relacionado aos aspectos comportamentais, emocionais e cognitivos do candidato por meio de protocolos e testes psicológicos; Relatório Pedagógico relacionado a descrição do processo de aprendizagem e do desempenho escolar do aluno ou aluna na Educação Básica; Relatório Psicopedagógico relacionado a descrição do processo de aprendizagem do candidato; Relatório Clínico Avaliativo em Terapia Ocupacional; Laudo de um profissional da Fonoaudiologia, Relatório da Equipe Multiprofissional do CAPS.
+
+Type: text
+Content: g) Deficiências Múltiplas: documentos de acordo com os tipos de deficiência declaradas.
+
+Type: text
+Content: 12.6 O(A) candidato(a) classificado(a) em vaga reservada e destinada à Pessoa com Deficiência, quando convocado(a) pela Comissão Multiprofissional de Verificação, deverá apresentar-se a uma Banca Multiprofissional de Verificação de PcD da UFPA, em conformidade com o Edital de Habilitação a ser divulgado pelo Centro de Registro e Indicadores Acadêmicos (CIAC/UFPA), para avaliação biopsicossocial.
+
+Type: text
+Content: 12.6.1 Quando convocado(a), de forma presencial, o(a) candidato(a) com deficiência deverá apresentar-se à Banca Multiprofissional de Verificação em data, horário e local determinados, munido da documentação adicional (originais e cópias) exigida no subitem 12.5.
+
+Type: text
+Content: 12.6.2 O(A) candidato(a) classificado(a) em vaga reservada e destinada às Pessoas com Deficiência, que não se apresentar à Banca Multiprofissional de Verificação em data, horário e local determinados será eliminado do certame, observadas as disposições do Edital de Habilitação.
+
+Type: text
+Content: 12.6.3 A Banca Multiprofissional de Verificação, na análise documental, avaliará os(as) candidatos(as) com deficiência, exclusivamente, com base nos documentos inseridos no Sistema do Cadastro Online do Calouro (COC), apresentados no período de habilitação, a ser divulgado pelo Centro de Registro e Indicadores Acadêmicos (CIAC/UFPA).
+
+Type: text
+Content: 12.7 A habilitação do(a) candidato(a) PcD estará condicionada à validação pela Banca Multiprofissional de Verificação da condição autodeclarada, cujo resultado será publicado em Edital disponibilizado no endereço eletrônico do Centro de Registro e Indicadores Acadêmicos (CIAC/UFPA): www.ciac.ufpa.br.
+
+Type: text
+Content: 12.7.1 O parecer de avaliação da Banca Multiprofissional de Verificação contendo a motivação da validação ou não validação da condição autodeclarada será disponibilizado ao(à) candidato(a), observando as disposições do Edital de Habilitação ao vínculo institucional.
+
+Type: text
+Content: 12.7.2 O parecer de avaliação da Banca Multiprofissional de Verificação não será fornecido para terceiros nem por meio diverso do previsto neste Edital.
+
+Type: text
+Content: 12.8 Os recursos relacionados aos resultados da avaliação da Banca Multiprofissional de Verificação, no período da habilitação, serão estabelecidos em Edital a ser divulgado pelo Centro de Registro e Indicadores Acadêmicos (CIAC/UFPA), no endereço eletrônico www.ciac.ufpa.br.
+
+Type: text
+Content: 13. DAS CHAMADAS ADICIONAIS (REPESCAGEM)
+
+Type: text
+Content: 13.1 Quando houver vagas não preenchidas após o período de matrícula, ou decorrentes de ausência, indeferimentos ou desistências, a Universidade Federal do Pará, poderá realizar Chamada Adicional pública para o preenchimento dessas vagas, obedecendo, rigorosamente, à classificação dos(as) candidatos(as), consideradas as modalidades de concorrência expostas no Quadro 1 do subitem 4.1 e descritas no Anexo II deste Edital.
+
+Type: text
+Content: 13.2 A posição do(a) candidato(a) na classificação da Chamada Adicional (repescagem) poderá sofrer alterações, após cada processo de habilitação e de classificação em reoferta, em função dos itens 9.8, 9.9, 9.14.2, 9.15, 9.16, 9.17, 9.18, 9.19, 9.20, 9.21, 9.22 e 14.2.
+
+Type: text
+Content: 14. DA REOFERTA DE VAGAS
+
+Type: text
+Content: 14.1 As vagas do PS 2025 sem candidatos(as) aprovados(as) e classificados(as) serão disponibilizadas em Reoferta de Vagas, sem distribuição de cotas, para nova concorrência destinada exclusivamente aos(às) candidatos(as) aprovados(as) e não classificados(as), que se encontrem ainda em lista de espera.
+
+Type: text
+Content: 14.2 O(A) candidato(a) que concorrer a uma vaga da Reoferta de Vagas estará automaticamente declarando que, no caso de classificação em novo curso, renuncia à sua posição na lista de Chamada Adicional do curso da sua inscrição inicial.
+
+Type: text
+Content: 14.3 A UFPA poderá realizar mais de uma Reoferta de Vagas para preencher vagas remanescentes do PS 2025.
+
+Type: text
+Content: 14.4 Não haverá lista de Chamada Adicional para os(as) não classificados(as) na Reoferta de Vagas. O(A) candidato(a) não classificado(a) na Reoferta de Vagas permanecerá na lista de Chamada Adicional (repescagem) do curso de sua escolha inicial.
+
+Type: text
+Content: 14.5 A publicação de Reoferta(s) de Vagas acontecerá a qualquer tempo após a divulgação do primeiro resultado do PS 2025, em comunicado na página do Centro de Processos Seletivos da Universidade Federal do Pará (CEPS/UFPA): www.ceps.ufpa.br.
+
+Type: text
+Content: 14.6 A adesão à Reoferta de Vagas acontecerá por meio da página de inscrição inicial do PS 2025 www.ceps.ufpa.br, sendo de responsabilidade exclusiva do(a) candidato(a) acompanhar os comunicados na página do Centro de Processos Seletivos da Universidade Federal do Pará (CEPS/UFPA), caso deseje participar da Reoferta de Vagas.
+
+Type: text
+Content: 14.7 O prazo para o(a) candidato(a) aderir à Reoferta de Vagas será de 03 (três) dias úteis após o início das inscrições conforme o Comunicado de Reoferta de Vagas publicado na página do Centro de Processos Seletivos da Universidade Federal do Pará (CEPS/UFPA): www.ceps.ufpa.br, não havendo possibilidade de recurso.
+
+Type: text
+Content: 14.8 Vagas não preenchidas na classificação inicial e nas Reofertas de Vagas poderão ter outra destinação, a critério da UFPA.
+
+Type: text
+Content: 15. DA IMPUGNAÇÃO DO EDITAL E DOS RECURSOS ADMINISTRATIVOS
+
+Type: text
+Content: 15.1 Caberá impugnação dos termos deste Edital no prazo de 02 (dois) dias úteis após a sua publicação no Diário Oficial da União.
+
+Type: text
+Content: 15.2 O(A) candidato(a) poderá interpor recurso administrativo, conforme os prazos estabelecidos a seguir, contados a partir da divulgação oficial:
+
+Type: text
+Content: a) da publicação do resultado preliminar referente à isenção do pagamento da taxa de inscrição, no prazo de 02 (dois) dias úteis;
+
+Type: text
+Content: b) da divulgação preliminar das inscrições aptas à homologação, no prazo de 02 (dois) dias úteis;
+
+Type: text
+Content: c) da publicação preliminar da homologação das inscrições, no prazo de 03 (três) dias úteis;
+
+Type: text
+Content: 15.3 As impugnações contra os termos deste Edital serão recebidas exclusivamente por meio eletrônico, via e-mail: coperps@ufpa.br, no prazo disposto no subitem 15.1.
+
+Type: text
+Content: 15.4 Os recursos previstos no item 15.2, contra a publicação do resultado referente à isenção de taxa, divulgação preliminar das inscrições aptas à homologação e da publicação preliminar da homologação das inscrições deverão ser interpostos exclusivamente na página de acompanhamento do(a) candidato(a), no prazo previsto no referido subitem.
+
+Type: text
+Content: 15.5 Os recursos deverão ser devidamente motivados, demonstrando, de forma clara, objetiva e fundamentada, as razões da sua interposição.
+
+Type: text
+Content: 15.6 Os recursos serão indeferidos quando:
+
+Type: text
+Content: a) as razões apresentadas forem improcedentes;
+
+Type: text
+Content: b) for constatada ausência de motivação, na forma do item 15.5;
+
+Type: text
+Content: c) desrespeitarem qualquer órgão ou instituição responsável pelo Processo Seletivo;
+
+Type: text
+Content: d) forem endereçados de maneira incorreta;
+
+Type: text
+Content: e) forem apresentados fora do prazo previsto neste Edital ou nos Editais de Habilitação.
+
+Type: text
+Content: 15.7 Não serão fornecidas cópias ou informações acerca do teor dos processos de recursos impetrados, exceto por força de determinação judicial.
+
+Type: text
+Content: 15.8 Os recursos serão apreciados pela Comissão Permanente de Processos Seletivos (COPERPS) e as decisões serão emitidas em até sete dias úteis após o encerramento do prazo estabelecido nos subitens 15.1 e 15.2 deste Edital.
+
+Type: text
+Content: 16. CRONOGRAMA DAS ETAPAS DO PROCESSO SELETIVO
+
+Type: text
+Content: 16.1 O quadro abaixo reúne as etapas do Processo Seletivo:
+
+Type: table
+Content: <table><thead><tr><th>ETAPA</th><th>DATA/PRAZO</th></tr></thead><tbody><tr><td>PUBLICAGAO DO EDITAL NO DIARIO OFICIAL DA UNIAO E NO SITE DO CEPS</td><td>04 DE OUTUBRO DE 2024</td></tr><tr><td>INTERPOSIGAO DE RECURSOS CONTRA O EDITAL</td><td>07 E 08 DE OUTUBRO DE 2024</td></tr><tr><td>PERIODO DE INSCRICAO (www.ceps.ufpa.br)</td><td>Das 14h do dia 16 DE OUTUBRO as 17h do dia 18 DE NOVEMBRO DE 2024</td></tr><tr><td>PERIODO DE SOLICITAGAO DE ISENGAO DA TAXA DE INSCRICAO</td><td>Das 14h do dia 16 DE OUTUBRO as 17h do dia 18 DE NOVEMBRO DE 2024</td></tr><tr><td>PUBLICAGCAO DO RESULTADO PRELIMINAR DA ISENGCAO DE TAXA</td><td>21 DE NOVEMBRO DE 2024</td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th>ETAPA</th><th>DATA/PRAZO</th></tr></thead><tbody><tr><td>INTERPOSICAO DE RECURSOS CONTRA O RESULTADO PRELIMINAR DA ISENCAO</td><td>21 A 23 DE NOVEMBRO DE 2024</td></tr><tr><td>PUBLICAGAO DO RESULTADO DOS RECURSOS E RESULTADO DEFINITIVO DA SOLICITAGAO DA ISENGCAO DE TAXA</td><td>27 DE NOVEMBRO DE 2024</td></tr><tr><td>PERIODO PARA PAGAMENTO DA TAXA DE INSCRICAO</td><td>16 DE OUTUBRO A 02 DE DEZEMBRO DE 2024</td></tr><tr><td>DIVULGAGAO PRELIMINAR DAS INSCRICOES APTAS A HOMOLOGAGAO</td><td>05 DE DEZEMBRO DE 2024</td></tr><tr><td>INTERPOSICAO DE RECURSOS CONTRA O RESULTADO DAS INSCRICOES APTAS A HOMOLOGACAO</td><td>05 A 07 DE DEZEMBRO DE 2024</td></tr><tr><td>PUBLICAGAO DEFINITIVA DAS INSCRIGOES APTAS A HOMOLOGAGAO</td><td>11 DE DEZEMBRO DE 2024</td></tr><tr><td>DIVULGAGAO PRELIMINAR DAS INSCRICOES HOMOLOGADAS</td><td>Até 03 (trés) dias teis apds o recebimento das notas do ENEM 2024</td></tr><tr><td>INTERPOSICAO DE RECURSOS CONTRA A HOMOLOGAGAO PRELIMINAR DAS INSCRICOES</td><td>03 (trés) dias Uteis apds a data da divulgagdo oficial das Inscrigdes Homologadas</td></tr><tr><td>HOMOLOGAGAO FINAL DAS INSCRIGOES</td><td>03 (trés) dias teis apds o final do prazo para interposi¢do do recurso contra a homologagdo das inscriges</td></tr></tbody></table>
+
+Type: text
+Content: 17. DAS DISPOSIÇÕES FINAIS
+
+Type: text
+Content: 17.1 A inscrição do(a) candidato(a) implica a aceitação das normas para o Processo Seletivo contidas nos comunicados, no presente Edital e em outros documentos que vierem a ser publicados, bem como das decisões que possam ser tomadas pela Comissão Permanente de Processos Seletivos (COPERPS) em casos omissos.
+
+Type: text
+Content: 17.2 É de inteira responsabilidade do(a) candidato(a) acompanhar todos os atos, editais e comunicados referentes a este Processo Seletivo publicados no Diário Oficial da União e/ou divulgados na internet, no endereço eletrônico: www.ceps.ufpa.br.
+
+Type: text
+Content: 17.3 O(A) candidato(a) poderá obter informações no Atendimento do Centro de Processos Seletivos da Universidade Federal do Pará (CEPS/UFPA), localizado na Universidade Federal do Pará (UFPA) – Cidade Universitária Prof. José da Silveira Netto, Sede do CEPS/UFPA – Rua Augusto Corrêa, nº 1, Bairro do Guamá, por meio dos telefones (91) 3201-7266 (WhatsApp) e (91) 3201-8381 ou via internet, no endereço eletrônico www.ceps.ufpa.br.
+
+Type: text
+Content: 17.4 O(A) candidato(a) que desejar relatar ao Centro de Processos Seletivos da Universidade Federal do Pará (CEPS/UFPA) fatos ocorridos durante a realização do PS UFPA 2025 deverá fazê-lo no setor de atendimento do CEPS/UFPA, ou encaminhar e-mail para atendimentoceps@ufpa.br.
+
+Type: text
+Content: 17.5 Só serão efetivadas as ofertas dos cursos de graduação constantes no Anexo 1 deste Edital, quando o número de candidatos(as) homologados(as) na habilitação ao vínculo institucional, por turma, for, no mínimo, igual a 15 (quinze).
+
+Type: text
+Content: 17.5.1 Candidatos(as) homologados(as) na habilitação em turma que venha a ser cancelada por insuficiência de discentes poderão, se desejarem, ser atendidos(as) em outras turmas, a critério da UFPA
+
+Type: text
+Content: 17.6 Os(As) candidatos(as) aprovados(as) e classificados(as) deverão obter informações sobre a convocação para habilitação ao vínculo institucional no endereço eletrônico do Centro de Registros e Indicadores Acadêmicos (CIAC/UFPA): www.ciac.ufpa.br.
+
+Type: text
+Content: 17.7 Os(As) candidatos(as) aprovados(as) e não classificados(as) deverão obter informações sobre demais convocações, se houver, no mesmo endereço eletrônico: www.ciac.ufpa.br
+
+Type: text
+Content: 17.8 Este Edital poderá sofrer eventuais alterações, atualizações ou acréscimos enquanto o Processo Seletivo não for realizado, circunstâncias que serão mencionadas em Edital retificado ou em aviso a ser publicado.
+
+Type: text
+Content: 17.9 Casos omissos referentes a este Edital serão resolvidos pela Comissão Permanente de Processos Seletivos (COPERPS).
+
+Type: text
+Content: EMMANUEL ZAGURY TOURINHO
+
+Type: text
+Content: REITOR
+
+Type: text
+Content: SELMA COSTA PENA
+
+Type: text
+Content: Pró-Reitora de Ensino de Graduação – Em exercício
+
+Type: text
+Content: Presidenta da Comissão Permanente de Processos Seletivos (COPERPS) – Em exercício
+
+Type: text
+Content: Serviço Público Federal Universidade Federal do Pará Pró-Reitoria de Ensino de Graduação Comissão Permanente de Processos Seletivos
+
+Type: text
+Content: EDITAL Nº 05 – COPERPS, DE 04 DE OUTUBRO DE 2024
+
+Type: text
+Content: ANEXO I
+
+Type: text
+Content: QUADRO DE DESCRIÇÃO QUANTO AO PERFIL DOS(AS) CANDIDATOS(AS) E GRUPOS DE VAGAS EM QUE CONCORREM
+
+Type: table
+Content: <table><thead><tr><th colspan="4">PERFIL DOS(AS) CANDIDATOS(AS)</th><th colspan="10">GRUPOS DE VAGAS EM QUE CONCORREM</th></tr><tr><th></th><th>PCD</th><th>Q</th><th>PPI</th><th colspan="10"></th></tr><tr><th></th><th></th><th></th><th></th><th>AC</th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td><td>AC</td><td>PCDA</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td></td><td>mm</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td>PCDA</td><td></td><td>EPCD</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td></td><td>mMm(m</td><td></td><td>EQ</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td></td><td></td><td></td><td></td><td>EPPI</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td>PCDA</td><td>mMm</td><td>EPCD</td><td>EQ</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td>PCDA</td><td>M</td><td>EPCD</td><td></td><td>EPPI</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td></td><td></td><td></td><td>EQ</td><td>EPPI</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td>PCDA</td><td>m|mmmmm</td><td>EPCD</td><td>EQ</td><td>EPPI</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td></td><td></td><td></td><td></td><td></td><td>ER</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td>PCDA</td><td></td><td>EPCD</td><td></td><td></td><td>ER</td><td>ERPCD</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td></td><td></td><td></td><td>EQ</td><td></td><td>ER</td><td></td><td>ERQ</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td></td><td></td><td></td><td></td><td>EPPI</td><td>ER</td><td></td><td></td><td>ERPPI</td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td>PCDA</td><td></td><td>EPCD</td><td>EQ</td><td></td><td>ER</td><td>ERPCD</td><td>ERQ</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td>PCDA</td><td></td><td>EPCD</td><td></td><td>EPPI</td><td>ER</td><td>ERPCD</td><td></td><td>ERPPI</td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td></td><td></td><td></td><td>EQ</td><td>EPPI</td><td>ER</td><td></td><td>ERQ</td><td>ERPPI</td></tr><tr><td></td><td></td><td></td><td></td><td>AC</td><td>PCDA</td><td></td><td>EPCD</td><td>EQ</td><td>EPPI</td><td>ER</td><td>ERPCD</td><td>ERQ</td><td>ERPPI</td></tr></tbody></table>
+
+Type: text
+Content: EDITAL Nº 05 – COPERPS, DE 04 DE OUTUBRO DE 2024
+
+Type: text
+Content: ANEXO II
+
+Type: text
+Content: QUADRO DE DISTRIBUIÇÃO DE ACORDO COM OS GRUPOS DE VAGAS – PS 2025
+
+Type: text
+Content: (Distribuição da reserva legal de vagas: Lei Nº 12.711/2012, alterada pela Lei Nº 14.723/2023, regulamentada pelo Decreto Nº 7.824/2012 e Portaria Normativa MEC Nº 18/2012, alterada pela Portaria Normativa MEC nº 2.027/2023)
+
+Type: table
+Content: <table><thead><tr><th>TOTAL DE VAGAS</th><th>AC AMPLA</th><th>PCDA * PCD ADICIONAL</th><th>ESCOLA</th><th>EPCD ESCOLA PCD</th><th>EQ ESCOLA</th><th>EPPI ESCOLA PPI</th><th>ER ESCOLA RENDA</th><th>ERPCD ESCOLA RENDA PCD</th><th>ERQ ESCOLA RENDA Q</th><th>ERPPI ESCOLA RENDA PPI</th></tr></thead><tbody><tr><td>20</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>25</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>26</td><td>10</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th>TOTAL DE VAGAS</th><th>AC AMPLA</th><th>PCDA * PCD ADICIONAL</th><th>E ESCOLA</th><th>PCD EPCD ESCOLA</th><th>EQ ESCOLA</th><th>PPI EPPI ESCOLA</th><th>ER ESCOLA RENDA</th><th>PCD ERPCD ESCOLA RENDA</th><th>ERQ ESCOLA RENDA Q</th><th>ERPPI ESCOLA RENDA PPI</th></tr></thead><tbody><tr><td>30</td><td>12</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>32</td><td>13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>33</td><td>13</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>35</td><td>14</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>36</td><td>15</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>39</td><td>16</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>40</td><td>17</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>42</td><td>19</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>45</td><td>21</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td></tr><tr><td>46</td><td>22</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>10</td></tr><tr><td>48</td><td>23</td><td></td><td></td><td></td><td></td><td>10</td><td></td><td></td><td></td><td>10</td></tr><tr><td>50</td><td>23</td><td></td><td></td><td></td><td></td><td>10</td><td></td><td></td><td></td><td>11</td></tr><tr><td>60</td><td>27</td><td></td><td></td><td></td><td></td><td>13</td><td></td><td></td><td></td><td>13</td></tr><tr><td>64</td><td>31</td><td></td><td></td><td></td><td></td><td>13</td><td></td><td></td><td></td><td>13</td></tr><tr><td>7 0</td><td>3 4</td><td></td><td></td><td></td><td></td><td>1 4</td><td></td><td></td><td></td><td>1 5</td></tr><tr><td>80</td><td>39</td><td></td><td></td><td></td><td></td><td>17</td><td></td><td></td><td></td><td>17</td></tr><tr><td>84</td><td>42</td><td></td><td></td><td></td><td></td><td>17</td><td></td><td></td><td></td><td>17</td></tr><tr><td>90</td><td>45</td><td></td><td></td><td></td><td></td><td>18</td><td></td><td></td><td></td><td>19</td></tr><tr><td>150</td><td>75</td><td></td><td></td><td></td><td></td><td>30</td><td></td><td></td><td></td><td>31</td></tr></tbody></table>
+
+Type: text
+Content: Legenda:
+
+Type: text
+Content: * - Nos cursos de dupla entrada serão contabilizadas 02 (duas) vagas PcDs por acréscimo.
+
+Type: text
+Content: Serviço Público Federal Universidade Federal do Pará Pró-Reitoria de Ensino de Graduação Comissão Permanente de Processos Seletivos
+
+Type: text
+Content: EDITAL Nº 05 – COPERPS, DE 04 DE OUTUBRO DE 2024
+
+Type: text
+Content: ANEXO III
+
+Type: text
+Content: QUADRO DE OFERTA – PS 2025
+
+Type: table
+Content: <table><thead><tr><th colspan="2" rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADCP</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>Abaetetuba</td><td></td><td>Engenharia de Produgdo</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td>X</td><td></td><td>40</td><td></td></tr><tr><td>Abaetetuba</td><td></td><td>Fisica</td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td>X</td><td></td><td>40</td><td></td></tr><tr><td>Abaetetuba (Oferta Igarapé-Miri)</td><td>em</td><td>Letras - Espanhol</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>26</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td></td><td>Abaetetuba</td><td>Letras - Espanhol</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td>X</td><td>26</td><td></td></tr><tr><td></td><td>Abaetetuba (Oferta em Acara)</td><td>Letras - Portugués</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td></td><td>Abaetetuba</td><td>Matematica</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td></td><td>Abaetetuba</td><td>Pedagogia</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td></td><td>Altamira</td><td>Agronomia</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td></td><td>Altamira</td><td>Ciéncias Bioldgicas</td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>10</td><td>Altamira</td><td>Ciéncias Bioldgicas</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>30</td><td></td></tr><tr><td>11</td><td>Altamira</td><td>Engenharia Florestal</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>12</td><td>Altamira</td><td>Geografia</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>13</td><td>Altamira</td><td>Letras - Portugués</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td rowspan="2">14</td><td>Altamira</td><td>*Medicina</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>30</td><td></td></tr><tr><td>Altamira</td><td>*Medicina</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>30</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>15</td><td>Altamira</td><td>Pedagogia</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td>X</td><td></td><td>40</td><td></td></tr><tr><td>16</td><td>Altamira</td><td>Pedagogia</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>17</td><td>Altamira (Oferta em Gurupa)</td><td>Geografia</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>18</td><td>Altamira (Oferta em Gurupa)</td><td>Ciéncias Bioldgicas</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>30</td><td></td></tr><tr><td>19</td><td>Ananindeua</td><td>Engenharia de Materiais</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>20</td><td>Ananindeua</td><td>Fisica</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>21</td><td>Ananindeua</td><td>Geografia</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>22</td><td>Ananindeua</td><td>Geoprceamento</td><td>Tecnoldgico</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>23</td><td>Ananindeua</td><td>Histdria</td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>24</td><td>Ananindeua (Oferta em Capanema)</td><td>Quimica</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>25</td><td>Ananindeua</td><td>Engenharia de Energia</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>26</td><td>Belém</td><td>Administragdo</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>45</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC P</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>27</td><td>Belém</td><td>Administragdo</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td>X</td><td></td><td>45</td><td></td></tr><tr><td>28</td><td>Belém</td><td>Administragdo</td><td>Bacharelado</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>45</td><td></td></tr><tr><td>29</td><td>Belém</td><td>Arquitetura e Urbanismo</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>30</td><td>Belém</td><td>Arquitetura e Urbanismo</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>31</td><td>Belém</td><td>Arquivologia</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>32</td><td>Belém</td><td>Artes Visuais</td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>20</td><td></td></tr><tr><td>33</td><td>Belém</td><td>Artes Visuais</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>20</td><td></td></tr><tr><td>34</td><td>Belém</td><td>Biblioteconomia</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>35</td><td>Belém</td><td>Biblioteconomia</td><td>Bacharelado</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td rowspan="2">36</td><td>Belém</td><td>*Biomedicina</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>20</td><td></td></tr><tr><td>Belém</td><td>*Biomedicina</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>20</td><td></td></tr><tr><td>37</td><td>Belém</td><td>Biotecnologia</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>38</td><td>Belém</td><td>Ciéncia da Computagdo</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td>X</td><td></td><td>40</td><td></td></tr><tr><td>39</td><td>Belém</td><td>Ciéncias Bioldgicas</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>40</td><td>Belém</td><td>Ciéncias Bioldgicas</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>30</td><td></td></tr><tr><td>41</td><td>Belém</td><td>Ciéncias Bioldgicas</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>42</td><td>Belém</td><td>Ciéncias Contdbeis</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>43</td><td>Belém</td><td>Ciéncias Contdbeis</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>44</td><td>Belém</td><td>Ciéncias Contdbeis</td><td>Bacharelado</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>45</td><td>Belém</td><td>Ciéncias Naturais</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>35</td><td></td></tr><tr><td>46</td><td>Belém</td><td>Ciéncias Naturais</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>35</td><td></td></tr><tr><td>47</td><td>Belém</td><td>Ciéncias Sociais</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>60</td><td></td></tr><tr><td>48</td><td>Belém</td><td>Ciéncias Sociais</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>60</td><td></td></tr><tr><td>49</td><td>Belém</td><td>Cinema e Audiovisual</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>26</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>50</td><td>Belém</td><td>Comunicagdo Social — Jornalismo</td><td>Bacharelado</td><td>Matutino</td><td>X</td><td></td><td>30</td><td></td></tr><tr><td>51</td><td>Belém</td><td>Comunicagdo Social Publicidade e Propaganda</td><td>Bacharelado</td><td>Matutino</td><td></td><td></td><td>20</td><td></td></tr><tr><td>52</td><td>Belém</td><td>Conservagdo e Restauro</td><td>Bacharelado</td><td>Matutino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>53</td><td>Belém</td><td>Danga</td><td>Licenciatura</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>54</td><td>Belém</td><td>Desenvolvimento Rural</td><td>Bacharelado</td><td>Vespertino</td><td></td><td></td><td>45</td><td></td></tr><tr><td>55</td><td>Belém</td><td>Direito</td><td>Bacharelado</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td rowspan="2">56</td><td>Belém</td><td>*Direito</td><td>Bacharelado</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>Belém</td><td>*Direito</td><td>Bacharelado</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td rowspan="2">57</td><td>Belém</td><td>*Direito</td><td>Bacharelado</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>Belém</td><td>*Direito</td><td>Bacharelado</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>58</td><td>Belém</td><td>Economia</td><td>Bacharelado</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>59</td><td>Belém</td><td>Economia</td><td>Bacharelado</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>60</td><td>Belém</td><td>Educaco Fisica</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td>X</td><td></td><td>46</td><td></td></tr><tr><td rowspan="2">61</td><td>Belém</td><td>*Enfermagem</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>42</td><td></td></tr><tr><td>Belém</td><td>*Enfermagem</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>42</td><td></td></tr><tr><td rowspan="2">62</td><td>Belém</td><td>*Engenharia Biomédica</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>20</td><td></td></tr><tr><td>Belém</td><td>*Engenharia Biomédica</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>20</td><td></td></tr><tr><td rowspan="2">63</td><td>Belém</td><td>*Engenharia Civil</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>Belém</td><td>*Engenharia Civil</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>30</td><td></td></tr><tr><td rowspan="2">64</td><td>Belém</td><td>*Engenharia Civil</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>Belém</td><td>*Engenharia Civil</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>65</td><td>Belém</td><td>Engenharia da Computagdo</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>66</td><td>Belém</td><td>Engenharia da Computagdo</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>20</td><td></td></tr><tr><td>67</td><td>Belém</td><td>Engenharia de Alimentos</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>36</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th colspan="2" rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>68</td><td>Belém</td><td colspan="2">Engenharia de Bioprocessos</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td>X</td><td></td><td>40</td><td></td></tr><tr><td>69</td><td>Belém</td><td colspan="2">Engenharia de Telecomunicages</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>30</td><td></td></tr><tr><td rowspan="2">70</td><td>Belém</td><td colspan="2">*Engenharia Elétrica</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>Belém</td><td colspan="2">*Engenharia Elétrica</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>71</td><td>Belém</td><td>Engenharia Logistica</td><td>Ferroviaria</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>72</td><td>Belém</td><td>Engenharia</td><td>Mecanica</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>73</td><td>Belém</td><td colspan="2">Engenharia Mecanica</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>74</td><td>Belém</td><td colspan="2">Engenharia Naval</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>26</td><td></td></tr><tr><td>75</td><td>Belém</td><td colspan="2">Engenharia Quimica</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>76</td><td>Belém</td><td colspan="2">Engenharia Quimica</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>77</td><td>Belém</td><td>Engenharia Ambiental</td><td>Sanitdria</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>78</td><td>Belém</td><td>Engenharia Ambiental</td><td>Sanitdria</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>30</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC P</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>79</td><td>Belém</td><td>Estatistica</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td>X</td><td></td><td>40</td><td></td></tr><tr><td rowspan="2">80</td><td>Belém</td><td>*Farmacia</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>35</td><td></td></tr><tr><td>Belém</td><td>*Farmacia</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>35</td><td></td></tr><tr><td>81</td><td>Belém</td><td>Filosofia</td><td>Licenciatura</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>82</td><td>Belém</td><td>Filosofia</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>20</td><td></td></tr><tr><td>83</td><td>Belém</td><td>Fisica</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>84</td><td>Belém</td><td>Fisica</td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>50</td><td></td></tr><tr><td>85</td><td>Belém</td><td>Fisica</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>50</td><td></td></tr><tr><td>86</td><td>Belém</td><td>Fisioterapia</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>30</td><td></td></tr><tr><td>87</td><td>Belém</td><td>Geofisica</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>88</td><td>Belém</td><td>Geografia</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>89</td><td>Belém</td><td>Geografia</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>30</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC P</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>90</td><td>Belém</td><td>Geologia</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td>X</td><td></td><td>40</td><td></td></tr><tr><td>91</td><td>Belém</td><td>Histdria</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>92</td><td>Belém</td><td>Histdria</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>93</td><td>Belém</td><td>Letras — Libras</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>26</td><td></td></tr><tr><td>94</td><td>Belém</td><td>Letras - Alemdo</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>26</td><td></td></tr><tr><td>95</td><td>Belém</td><td>Letras - Espanhol</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>26</td><td></td></tr><tr><td>96</td><td>Belém</td><td>Letras - Francés</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>26</td><td></td></tr><tr><td>97</td><td>Belém</td><td>Letras - Inglés</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>26</td><td></td></tr><tr><td>98</td><td>Belém</td><td>Letras -Inglés</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>26</td><td></td></tr><tr><td rowspan="2">99</td><td>Belém</td><td>*Letras - Lingua Portuguesa</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>25</td><td></td></tr><tr><td>Belém</td><td>*Letras - Lingua Portuguesa</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>25</td><td></td></tr><tr><td>100</td><td>|Belém</td><td>*Letras - Lingua Portuguesa</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>25</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead></thead><tbody><tr><td rowspan="3"></td><td rowspan="3">CAMPUS Belém</td><td colspan="3" rowspan="3">CURSO *Letras - Lingua Portuguesa</td><td rowspan="3">MODALIDADE Licenciatura</td><td rowspan="3">REGIME DE OFERTA Extensivo</td><td rowspan="4">TURNO Noturno Vespertino</td><td colspan="2">INiCIO</td><td rowspan="3">VAGAS PS2025 25</td><td rowspan="3">ADC P</td></tr><tr><td rowspan="3">ENT1</td><td rowspan="2">ENT 2 X</td></tr><tr><td>101</td><td>Belém</td><td>Licenciatura Ciéncias Linguagens</td><td>Integrada Matematica</td><td>em e</td><td>Licenciatura</td><td>Extensivo</td><td></td><td>45</td><td></td></tr><tr><td>102</td><td>Belém</td><td>Licenciatura Ciéncias Linguagens</td><td>Integrada Matematica</td><td>em e</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>45</td><td></td></tr><tr><td>103</td><td>Belém</td><td>Matematica</td><td></td><td></td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>104</td><td>Belém</td><td>Matematica</td><td></td><td></td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td rowspan="2">105</td><td>Belém</td><td>*Medicina</td><td></td><td></td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>75</td><td></td></tr><tr><td>Belém</td><td>*Medicina</td><td></td><td></td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>75</td><td></td></tr><tr><td>106</td><td>Belém</td><td>Meteorologia</td><td></td><td></td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>107</td><td>Belém</td><td>Museologia</td><td></td><td></td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>108</td><td>Belém</td><td>Mdsica</td><td></td><td></td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>109</td><td>Belém</td><td>*Nutrigdo</td><td></td><td></td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>32</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr></thead><tbody><tr><td rowspan="2">ENT1</td><td>ENT 2</td></tr><tr><td></td><td>Belém</td><td>*Nutrigdo</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td>X</td><td>32</td><td></td></tr><tr><td>110</td><td>Belém</td><td>Oceanografia</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td rowspan="2">111</td><td>Belém</td><td>*Odontologia</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>45</td><td></td></tr><tr><td>Belém</td><td>*Odontologia</td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>45</td><td></td></tr><tr><td rowspan="2">112</td><td>Belém</td><td>*Pedagogia</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>45</td><td></td></tr><tr><td>Belém</td><td>*Pedagogia</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>45</td><td></td></tr><tr><td rowspan="2">113</td><td>Belém</td><td>*Pedagogia</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>45</td><td></td></tr><tr><td>Belém</td><td>*Pedagogia</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>45</td><td></td></tr><tr><td>114</td><td>Belém</td><td>Produgdo Multimidia</td><td>Tecnoldgico</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>26</td><td></td></tr><tr><td>115</td><td>Belém</td><td>Produgdo Cénica</td><td>Tecnoldgico</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>30</td><td></td></tr><tr><td>116</td><td>Belém</td><td>Psicologia</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>117</td><td>Belém</td><td>Psicologia</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>30</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>118</td><td>|Belém</td><td>Quimica</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td>X</td><td></td><td>46</td><td></td></tr><tr><td>119</td><td>Belém</td><td>Quimica</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>20</td><td></td></tr><tr><td>120</td><td>Belém</td><td>Quimica Industrial</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>121</td><td>Belém</td><td>Servigo Social</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>122</td><td>Belém</td><td>Servigo Social</td><td>Bacharelado</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>123</td><td>Belém</td><td>Servigo Social</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>124</td><td>Belém</td><td>Sistemas de Informago</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>125</td><td>Belém</td><td>Teatro</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>126</td><td>Belém</td><td>Terapia Ocupacional</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>33</td><td></td></tr><tr><td>127</td><td>Belém</td><td>Turismo</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>128</td><td>Belém</td><td>Turismo</td><td>Bacharelado</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>129</td><td>Braganga</td><td>Ciéncias Bioldgicas</td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th colspan="2" rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>130 |</td><td>Braganga</td><td></td><td>Ciéncias Naturais</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td>X</td><td></td><td>40</td><td></td></tr><tr><td>131</td><td>Braganga</td><td></td><td>Engenharia de Pesca</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>132</td><td>Braganga</td><td></td><td>Histdria</td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>133</td><td>Braganga</td><td></td><td>Letras - Portugués</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>134</td><td>Braganga</td><td></td><td>Matematica</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>135</td><td>Braganga Capanema)</td><td>(Oferta para</td><td>Matematica</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>136</td><td>Braganga Tucurui)</td><td>(Oferta para</td><td>Pedagogia</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>137</td><td>Braganga</td><td></td><td>Letras - Inglés</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>138</td><td>Braganga Capanema)</td><td>(Oferta para</td><td>Letras - Inglés</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>30</td><td></td></tr><tr><td>139</td><td>Breves</td><td></td><td>Matematica</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>140</td><td>Breves</td><td></td><td>Pedagogia</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>141</td><td>Breves</td><td></td><td>Letras - Portugués</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>142 |</td><td>Breves (Oferta em Portel)</td><td>Letras — Portugués</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td>X</td><td>40</td><td></td></tr><tr><td>143</td><td>Breves (Oferta em Curralinho)</td><td>Letras — Portugués</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>144</td><td>Breves</td><td>Ciéncias Naturais</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>145</td><td>Breves</td><td>Ciéncias Naturais</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>146</td><td>Breves</td><td>Servigo Social</td><td>Bacharelado</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>147</td><td>Cameta (Oferta em Oeiras do Pard)</td><td>Letras - Portugués</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>148</td><td>Cametd</td><td>Letras - Portugués</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>149</td><td>Cametd (Oferta em Mocajuba)</td><td>Agronomia</td><td>Bacharelado</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>45</td><td></td></tr><tr><td>150</td><td>Cametd</td><td>Ciéncias Naturais</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>151</td><td>Cametd</td><td>Geografia</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>152</td><td>Cametd</td><td>Histdria</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>153</td><td>Cameta (Oferta em Limoeiro do Ajuru)</td><td>Histdria</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>154</td><td>| Cameta</td><td>Letras — Inglés</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td>X</td><td>30</td><td></td></tr><tr><td>155</td><td>Cametd (Oferta em Mocajuba)</td><td>Matematica</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>156</td><td>Cametd</td><td>Pedagogia</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>157</td><td>Cameta (Oferta em Baido)</td><td>Pedagogia</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>158</td><td>Cametd</td><td>Sistemas de Informago</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td rowspan="2">159</td><td>Castanhal</td><td>Educago Fisica (ABI)</td><td>Licenciatura / Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>Castanhal</td><td>Educago Fisica (ABI)</td><td>Licenciatura / Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td colspan="10">160</td></tr><tr><td>161</td><td>Castanhal</td><td>Engenharia de Computagdo</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>30</td><td></td></tr><tr><td>162</td><td>Castanhal (Oferta em Marapanim)</td><td>Letras - Espanhol</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>163</td><td>Castanhal</td><td>Letras -Portugués</td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>40</td><td></td></tr><tr><td>164</td><td>Castanhal</td><td>Matematica</td><td>Licenciatura</td><td>Extensivo</td><td>Matutino</td><td>X</td><td></td><td>40</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th colspan="2" rowspan="2">CURSO</th><th rowspan="2">MODALIDADE</th><th rowspan="3">REGIME DE OFERTA Extensivo</th><th rowspan="3">TURNO Vespertino</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr><tr><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>165</td><td>Castanhal</td><td>Matematica</td><td></td><td>Licenciatura</td><td>X</td><td></td><td>40</td><td></td></tr><tr><td>166</td><td>Castanhal (Oferta em Cametad)</td><td>Medicina Veterindria</td><td></td><td>Bacharelado</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>30</td><td></td></tr><tr><td>167</td><td>Castanhal</td><td>Medicina Veterindria</td><td></td><td>Bacharelado</td><td>Extensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>168</td><td>Castanhal</td><td>Pedagogia</td><td></td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>169</td><td>Castanhal (Oferta em Sao Caetano de Odivelas)</td><td>Pedagogia</td><td></td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td>170</td><td>Castanhal</td><td>Sistema de Informagédo</td><td></td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>171</td><td>Salinépolis</td><td>Engenharia de Exploragdo e Produgdo de Petréleo</td><td></td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>50</td><td></td></tr><tr><td>172</td><td>Salinépolis</td><td>Fisica</td><td></td><td>Licenciatura</td><td>Extensivo</td><td>Noturno</td><td></td><td></td><td>50</td><td></td></tr><tr><td>173</td><td>Salinépolis</td><td>Engenharia Costeira e Oceanica</td><td></td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>50</td><td></td></tr><tr><td>174</td><td>Salinépolis</td><td>Matematica</td><td></td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>50</td><td></td></tr><tr><td>175</td><td>Soure</td><td>Ciéncias Bioldgicas</td><td></td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>39</td><td></td></tr></tbody></table>
+
+Type: table
+Content: <table><thead><tr><th rowspan="2"></th><th rowspan="2">CAMPUS</th><th colspan="3" rowspan="2">CURSO</th><th></th><th rowspan="2">REGIME DE OFERTA</th><th rowspan="2">TURNO</th><th colspan="2">INiCIO</th><th rowspan="2">VAGAS PS2025</th><th rowspan="2">ADC PCD</th></tr><tr><th>MODALIDADE</th><th>ENT1</th><th>ENT 2</th></tr></thead><tbody><tr><td>176</td><td>| Soure</td><td>Licenciatura Ciéncias Linguagens</td><td>Integrada Matematica</td><td>em e</td><td>Licenciatura</td><td>Intensivo</td><td>Integral</td><td></td><td>X</td><td>45</td><td></td></tr><tr><td>177</td><td>Tucurui</td><td colspan="3">Engenharia Civil</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>48</td><td></td></tr><tr><td>178</td><td>Tucurui</td><td colspan="3">Fisica</td><td>Licenciatura</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>179</td><td>Tucurui</td><td colspan="3">Engenharia de Computagdo</td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>48</td><td></td></tr><tr><td>180</td><td>Tucurui</td><td colspan="3">Engenharia Elétrica</td><td>Bacharelado</td><td>Extensivo</td><td>Matutino</td><td></td><td></td><td>40</td><td></td></tr><tr><td>181</td><td>Tucurui</td><td>Engenharia</td><td>Mecanica</td><td></td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>48</td><td></td></tr><tr><td>182</td><td>Tucurui (Oferta em Braganga)</td><td colspan="3">Engenharia Mecanica</td><td>Bacharelado</td><td>Intensivo</td><td>Integral</td><td></td><td></td><td>40</td><td></td></tr><tr><td rowspan="2">183</td><td>Tucurui</td><td>Engenharia Ambiental</td><td>Sanitdria</td><td></td><td>Bacharelado</td><td>Extensivo</td><td>Vespertino</td><td></td><td></td><td>40</td><td></td></tr><tr><td colspan="4">Total</td><td></td><td></td><td></td><td></td><td></td><td>7468</td><td>200</td></tr></tbody></table>
+
+Type: text
+Content: LEGENDA:
+
+Type: text
+Content: (*) = Cursos com entradas no primeiro e no segundo semestre (entrada definida nos subitens 5.5, 5.5.1 e 5.5.3)
+
+Type: text
+Content: - A opção por um turno implica a possibilidade de atividades acadêmicas (estágios, práticas) no contraturno.
+
+Type: text
+Content: - Cursos noturnos poderão prever atividades diurnas aos sábados.
+
+Type: text
+Content: - ABI = currículo novo em conformidade com a Resolução n. 06/2018 - CNE.
+
+Type: text
+Content: - Vagas PcD: uma vaga adicional acrescida por curso/turno/período de ingresso destinada a Pessoas com Deficiência. (***): Linha inabilitada, em função da retificação nº 03 do Edital Nº 05/2024 – COPERPS.
+
+Type: CodeSnippet
+Content: 53
+
+Type: text
+Content: Serviço Público Federal Universidade Federal do Pará Pró-Reitoria de Ensino de Graduação Comissão Permanente de Processos Seletivos
+
+Type: text
+Content: EDITAL Nº 05 – COPERPS, DE 04 DE OUTUBRO DE 2024
+
+Type: text
+Content: ANEXO IV
+
+Type: text
+Content: DOCUMENTAÇÃO COMPLEMENTAR, CONFORME ATIVIDADE PROFISSIONAL EXERCIDA
+
+Type: text
+Content: 1. Documentação adicional para Trabalhador(a) Assalariado(a):
+
+Type: text
+Content: a) Contracheques, pelo menos, dos meses de julho, agosto e setembro 2024
+
+Type: text
+Content: b) Extrato atualizado da conta vinculada do(a) trabalhador(a) no FGTS.
+
+Type: text
+Content: 2. Documentação adicional para Trabalhador(a) de Atividade Rural:
+
+Type: text
+Content: a) Declaração de Imposto de Renda Pessoa Jurídica – IRPJ, quando for o caso.
+
+Type: text
+Content: b) Quaisquer declarações tributárias referentes a pessoas jurídicas vinculadas ao(a) candidato(a) ou a componentes do grupo familiar, quando for o caso.
+
+Type: text
+Content: 3. Documentação adicional para Trabalhador(a) Aposentado(a), Pensionista ou beneficiário(a) do Benefício de Prestação Continuada ou Auxílio-Doença: a) Extrato de pagamento (Histórico de Crédito de Benefício) do mês de setembro de 2024, emitido pela internet no endereço eletrônico meu.inss.gov.br/central/index.html;
+
+Type: text
+Content: b) Se aposentado(a), pensionista ou recebedor de auxílio de outros órgãos, apresentar o contracheque, pelo menos, julho, agosto e setembro de 2024.
+
+Type: text
+Content: 4. Documentação adicional para Trabalhador(a) Autônomo(a) ou Profissional Liberal:
+
+Type: text
+Content: a) Declaração de Trabalhador(a) Autônomo(a) ou Profissional Liberal, conforme modelo disponível no Cadastro Online de Calouros.
+
+Type: text
+Content: b) Quaisquer declarações tributárias referentes a pessoas jurídicas vinculadas ao(a) candidato(a) ou a componentes do grupo familiar, quando for o caso.
+
+Type: text
+Content: c) Guia de recolhimento ao INSS com comprovante de pagamento do mês de setembro de 2024.
+
+Type: text
+Content: d) Certificado da Condição de Microempreendedor Individual (CCMEI) para os MEIs
+
+Type: text
+Content: 5. Documentação adicional para Trabalhador(a) com Rendimentos Informais:
+
+Type: text
+Content: a) Declaração de Trabalho com Rendimento Informal, conforme modelo disponível no Cadastro Online de Calouros.
+
+Type: text
+Content: 6. Documentação adicional para componente(s) familiar(es) rendimentos provenientes de aluguel ou arrendamento de bens móveis e imóveis: com
+
+Type: text
+Content: a) Contrato de locação ou arrendamento devidamente registrado em cartório, acompanhado de três comprovantes de recebimentos, pelo menos, dos meses de julho, agosto e setembro de 2024
+
+Type: text
+Content: 7. Documentação adicional para componente(s) familiar(es) rendimentos provenientes de Pensão Alimentícia: com
+
+Type: text
+Content: a) Sentença Judicial, com a declaração do valor.
+
+Type: text
+Content: b) Comprovante de recebimento/pagamento, pelo menos, dos meses de julho, agosto e setembro de 2024
+
+Type: text
+Content: 8. Documentação adicional para componente(s) familiar(es) rendimento proveniente de auxílio e programas sociais de qualquer natureza: com
+
+Type: text
+Content: a) Comprovante de recebimento do auxílio ou programa social, pelo menos, dos meses de julho, agosto e setembro de 2024
+
+Type: text
+Content: 9. Documentação adicional para componente(s) familiar(es) rendimento proveniente de Estágio ou Bolsa: com
+
+Type: text
+Content: a) Contrato de Estágio ou Termo de Compromisso de Bolsa, acompanhado de todos os termos de renovação que existirem.
+
+Type: text
+Content: b) Comprovante de recebimento dos meses de julho, agosto e setembro de 2024, pelo menos.
+
+Type: text
+Content: 10. Documentação adicional para componente(s) familiar(es) informado(s) como exercendo atividade do Lar:
+
+Type: text
+Content: a) Declaração de isento de IRPF, conforme modelo disponível no Cadastro Online de Calouros.
+
+Type: text
+Content: b) Declaração de Atividade do Lar, conforme modelo disponível no Cadastro Online de Calouros.
+
+Type: text
+Content: 11. Documentação adicional para componente(s) familiar(es) que tenha(m) perdido o emprego:
+
+Type: text
+Content: a) Comprovante de recebimento do Seguro Desemprego, se houver algum recebimento em 2024.
+
+Type: text
+Content: b) Cópia da rescisão contratual caso tenha ocorrido em 2024.
+
+Type: text
+Content: 12. Documentação adicional para componente(s) familiar(es) beneficiário(a)(s) do Seguro Defeso:
+
+Type: text
+Content: a) Extratos de pagamento das parcelas recebidas no ano de 2024.
+
+Type: CodeSnippet
+Content: 56
+

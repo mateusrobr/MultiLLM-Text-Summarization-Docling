@@ -71,3 +71,17 @@ def pdf_to_text(pdf_path):
         # Se unstructured.documents.elements.image = PrecessaImagem
 
     return categorized_elements
+
+def save_elements_to_txt(elements, output_path):
+    with open(output_path, 'w', encoding='utf-8') as f:
+        for element in elements:
+            f.write(f"Type: {element.type}\n")
+            f.write(f"Content: {element.page_content}\n")
+            f.write("\n")
+
+if __name__ == "__main__":
+    pdf_path = "Editais\Edital_05_2024.pdf"
+    output_path = "output.txt"
+    elements = pdf_to_text(pdf_path)
+    save_elements_to_txt(elements, output_path)
+    print(f"Elements saved to {output_path}")
