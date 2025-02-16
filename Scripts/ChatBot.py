@@ -17,21 +17,18 @@ def chatbot(message):
     
     models = ["qwen:4b","falcon:7b"]
     
-
     retrive = vectorstore.as_retriever(
         search_type="similarity",
         search_kwargs={"k": 4}
     )
 
-
     retrive_doc = retrive.invoke(message)
     context = ' '.join([doc.page_content for doc in retrive_doc])
         
-
     # Geração de responstas usando múltiplos modelos
-    summaries = generate_response_with_models(models, context, message)
+    responses = generate_response_with_models(models, context, message)
 
     # Avaliação e seleção da melhor resposta
-    best_response = evaluate_responses(summaries, message)
+    best_response = evaluate_responses(responses, message)
 
     return best_response

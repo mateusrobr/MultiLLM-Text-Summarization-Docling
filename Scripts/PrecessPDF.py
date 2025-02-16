@@ -20,7 +20,6 @@ class Element(BaseModel):
     type: str
     page_content: Any
 
-pdf_path = "Editais\Edital_05_2024.pdf"
 
 def pdf_to_text(pdf_path):
     with open(pdf_path, "rb") as f:
@@ -50,29 +49,27 @@ def pdf_to_text(pdf_path):
 
     for element in elements:
         if "unstructured.documents.elements.Table" in str(type(element)):
-            categorized_elements.append(Element(type="table", page_content=str(element.metadata.text_as_html)))
+            categorized_elements.append(f"Type: table\nContent: {str(element.metadata.text_as_html)}\n")
         elif "unstructured.documents.elements.NarrativeText" in str(type(element)):
-            categorized_elements.append(Element(type="text", page_content=str(element)))
+            categorized_elements.append(f"Type: text\nContent: {str(element)}\n")
         elif "unstructured.documents.elements.ListItem" in str(type(element)):
-            categorized_elements.append(Element(type="text", page_content=str(element)))
+            categorized_elements.append(f"Type: text\nContent: {str(element)}\n")
         elif "unstructured.documents.elements.Title" in str(type(element)):
-            categorized_elements.append(Element(type="text", page_content=str(element)))
+            categorized_elements.append(f"Type: text\nContent: {str(element)}\n")
         elif "unstructured.documents.elements.Address" in str(type(element)):
-            categorized_elements.append(Element(type="text", page_content=str(element)))
+            categorized_elements.append(f"Type: text\nContent: {str(element)}\n")
         elif "unstructured.documents.elements.EmailAddress" in str(type(element)):
-            categorized_elements.append(Element(type="text", page_content=str(element)))
+            categorized_elements.append(f"Type: text\nContent: {str(element)}\n")
         elif "unstructured.documents.elements.Header" in str(type(element)):
-            categorized_elements.append(Element(type="CodeSnippet", page_content=str(element)))
+            categorized_elements.append(f"Type: CodeSnippet\nContent: {str(element)}\n")
         elif "unstructured.documents.elements.CodeSnippet" in str(type(element)):
-            categorized_elements.append(Element(type="text", page_content=str(element)))
+            categorized_elements.append(f"Type: text\nContent: {str(element)}\n")
         elif "unstructured.documents.elements.UncategorizedText" in str(type(element)):
-            categorized_elements.append(Element(type="text", page_content=str(element)))
+            categorized_elements.append(f"Type: text\nContent: {str(element)}\n")
         
-        # Se unstructured.documents.elements.image = PrecessaImagem
+    return "\n".join(categorized_elements)
 
-    return categorized_elements
-
-def save_elements_to_txt(elements, output_path):
+'''def save_elements_to_txt(elements, output_path):
     with open(output_path, 'w', encoding='utf-8') as f:
         for element in elements:
             f.write(f"Type: {element.type}\n")
@@ -84,4 +81,4 @@ if __name__ == "__main__":
     output_path = "output.txt"
     elements = pdf_to_text(pdf_path)
     save_elements_to_txt(elements, output_path)
-    print(f"Elements saved to {output_path}")
+    print(f"Elements saved to {output_path}")'''
