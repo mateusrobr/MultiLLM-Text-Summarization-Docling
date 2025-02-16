@@ -28,10 +28,9 @@ def chatbot():
         )
 
         retrive_doc = retrive.invoke(message)
-        #context = ' '.join([doc.metadata for doc in retrive_doc])
-        print(f"----------------------------------------------------------------\nContexto: {[doc.metadata for doc in retrive_doc]}\n----------------------------------------------------------------")
+        context = ' '.join([doc.metadata for doc in retrive_doc])
 
-        #print(f"----------------------------------------------------------------\nContexto: {retrive_doc['metadata']}\n----------------------------------------------------------------")
+        print(f"----------------------------------------------------------------\nContexto: {retrive_doc['metadata']}\n----------------------------------------------------------------")
     
     # Geração de responstas usando múltiplos modelos
     #summaries = generate_response_with_models(models, context, message)

@@ -1,7 +1,9 @@
-from langchain_text_splitters import RecursiveCharacterTextSplitter, CharacterTextSplitter
-from langchain_community.embeddings import OllamaEmbeddings
-from langchain_community.vectorstores import Chroma
-from Scripts.PrecessPDF import pdf_to_text
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+#from langchain_community.embeddings import OllamaEmbeddings
+#from langchain_community.vectorstores import Chroma
+from langchain_ollama import OllamaEmbeddings
+from langchain_chroma import Chroma
+from Scripts.PrecessPDF import pdf_to_doc
 
 default_persist_directory = "./chroma_langchain_db"
 
@@ -39,8 +41,9 @@ def loadDocuments(pdf_paths):
     
     for pdf_path in pdf_paths:
         try:
-            pdf_text = pdf_to_text(pdf_path)
-            splitted_text = text_splitter.split_text(pdf_text)
+            pdf_text = pdf_to_doc(pdf_path)
+            print(f"Carregando documento {pdf_path}...")
+            splitted_text = text_splitter.split_documents(pdf_text)
             all_splitts.extend(splitted_text)
             print(f"Documento {pdf_path} carregado com sucesso!")
             
@@ -56,7 +59,7 @@ def storageInChroma(texts, persist_directory=default_persist_directory, vector_d
             return None
 
     try:
-        vector_db.add_texts(texts)
+        vector_db.add_documents(texts)
         print(f"Documentos armazenados no diretório: {persist_directory}")
         return vector_db
     except Exception as e:
