@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv, find_dotenv
 import fitz
 from langchain_unstructured import UnstructuredLoader
-from pdf2image import convert_from_path
+#from pdf2image import convert_from_path
 from unstructured_client import UnstructuredClient
 
 def pdf_to_doc(file_path):

@@ -18,3 +18,6 @@
 `pip install -U langchain-community`
 `pip install pypdf`
 `pip install langchain-text-splitters`
+`pip install unstructured-client`
+`pip install langchain-unstructured`
+`pip install PyMuPDF`
