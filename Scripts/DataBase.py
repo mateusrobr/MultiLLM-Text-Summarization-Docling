@@ -46,6 +46,8 @@ def loadDocuments(pdf_paths):
             splitted_text = text_splitter.split_documents(pdf_text)
             all_splitts.extend(splitted_text)
             print(f"Documento {pdf_path} carregado com sucesso!")
+
+            extract_images(pdf_path)
             
         except Exception as e:
             print(f"Erro ao carregar o documento {pdf_path}: {e}")
