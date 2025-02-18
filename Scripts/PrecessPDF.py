@@ -2,7 +2,7 @@ import os
 from dotenv import load_dotenv, find_dotenv
 import fitz
 from langchain_unstructured import UnstructuredLoader
-#from pdf2image import convert_from_path
+from pdf2image import convert_from_path
 from unstructured_client import UnstructuredClient
 
 def pdf_to_doc(file_path):
@@ -39,6 +39,13 @@ def pdf_to_doc(file_path):
     return docs
 
 def extract_images(pdf_path):
+    """
+    Extrai imagens de um PDF
+    
+    Args:
+        pdf_path (str): O caminho do arquivo PDF.
+    
+    """
 
     doc = fitz.open(pdf_path)
 
@@ -49,7 +56,7 @@ def extract_images(pdf_path):
 
 
     documents_number = len(os.listdir(output_folder))
-
+    image_paths = []
     for page_number in range(len(doc)):  # Itera sobre todas as páginas do PDF
         page = doc[page_number]
         images = page.get_images(full=True)  # Obtém todas as imagens embutidas na página
@@ -64,7 +71,9 @@ def extract_images(pdf_path):
             image_filename = f"image_{documents_number + 1}.{image_ext}"
             documents_number += 1
             image_path = os.path.join(output_folder, image_filename)
+            image_paths.append(image_path)
             # Salvar a imagem extraída
             with open(image_path, "wb") as image_file:
                 image_file.write(image_bytes)
 
+    return image_paths
