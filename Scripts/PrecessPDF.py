@@ -4,6 +4,7 @@ import fitz
 from langchain_unstructured import UnstructuredLoader
 from pdf2image import convert_from_path
 from unstructured_client import UnstructuredClient
+import ollama
 
 def pdf_to_doc(file_path):
     """
@@ -80,7 +81,7 @@ def extract_images(pdf_path):
 
 def get_images_description(images_path):
     descriptions = []
-    for path in image_paths:
+    for path in images_path:
 
         res = ollama.chat(
             model='llava',
@@ -95,4 +96,4 @@ def get_images_description(images_path):
 
         descriptions.append(res)
     
-    return description
+    return descriptions
