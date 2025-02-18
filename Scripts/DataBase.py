@@ -3,7 +3,7 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 #from langchain_community.vectorstores import Chroma
 from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
-from Scripts.PrecessPDF import pdf_to_doc
+from Scripts.PrecessPDF import extract_images, pdf_to_doc
 
 default_persist_directory = "./chroma_langchain_db"
 
@@ -46,7 +46,6 @@ def loadDocuments(pdf_paths):
             splitted_text = text_splitter.split_documents(pdf_text)
             all_splitts.extend(splitted_text)
             print(f"Documento {pdf_path} carregado com sucesso!")
-
             extract_images(pdf_path)
             
         except Exception as e:
