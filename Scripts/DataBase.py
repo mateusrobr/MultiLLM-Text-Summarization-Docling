@@ -1,11 +1,16 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 #from langchain_community.embeddings import OllamaEmbeddings
 #from langchain_community.vectorstores import Chroma
+from chromadb.utils.data_loaders import ImageLoader
+from chromadb.utils.embedding_functions import OpenCLIPEmbeddingFunction
 from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
 from Scripts.PrecessPDF import extract_images, pdf_to_doc
+from chromadb import PersistentClient
 
 default_persist_directory = "./chroma_langchain_db"
+
+default_persist_multimodal_directory = "./chroma_multimodal_db"
 
 def initializeChromaDB(persist_directory=default_persist_directory):
     """
@@ -28,6 +33,7 @@ def initializeChromaDB(persist_directory=default_persist_directory):
     except Exception as e:
         print(f"Erro ao inicializar o banco de dados vetorial: {e}")
         return None
+
 
 
 def loadDocuments(pdf_paths):
@@ -83,6 +89,7 @@ def loadAndStoreDocuments(paths, persist_directory=default_persist_directory):
     try:
         print("Carregando documentos...")
         splitted_texts = loadDocuments(paths)
+        image_ids_paths = extract_images(paths)
         
         if not splitted_texts:
             print("Falha ao carregar os documentos. Verifique os caminhos e tente novamente.")
@@ -90,8 +97,9 @@ def loadAndStoreDocuments(paths, persist_directory=default_persist_directory):
         
         print("Armazenando documentos no ChromaDB...")
         vectorstore = storageInChroma(splitted_texts, persist_directory=persist_directory)
+        multimodal_store = loadAndStoreImages(image_ids_paths)
         
-        if vectorstore:
+        if vectorstore and multimodal_store:
             print(f"Documentos armazenados com sucesso no ChromaDB! Dados persistidos em: {persist_directory}")
         else:
             print("Falha ao armazenar os documentos no ChromaDB.")
@@ -100,3 +108,48 @@ def loadAndStoreDocuments(paths, persist_directory=default_persist_directory):
     except Exception as e:
         print(f"Ocorreu um erro: {e}")
         return None
+    
+
+def initializeChromaMultimodal(persist_directory= default_persist_multimodal_directory):
+    '''
+    Inicializa um DB multimodal
+
+    Args:
+        Caminho para o banco de dados ser guardado na memória
+
+    Returns:
+        Banco de dados inicializado
+    '''
+
+    try:
+        chroma_client = PersistentClient(path=default_persist_multimodal_directory)
+
+        image_loader = ImageLoader()
+        multimodal_emb_func = OpenCLIPEmbeddingFunction()
+
+        multimodal_db = chroma_client.get_or_create_collection(name='multimodal_db',embedding_function=multimodal_emb_func, data_loader=image_loader)
+    
+    except Exception as e:
+        print(f"Ocorreu um erro: {e}")
+        return None
+
+    return multimodal_db
+
+def loadAndStoreImages(images_ids_and_paths):
+
+    multimodal_db = initializeChromaMultimodal(default_persist_directory)
+
+    try: 
+        for id in images_ids_and_paths:
+            multimodal_db.add(
+                ids=[id[0]],
+                uris=[id[1]]
+            )
+    except Exception as e:
+        print(f"Ocorreu um erro {e}")
+    return multimodal_db
+
+
+
+
+

@@ -69,10 +69,12 @@ def extract_images(pdf_path):
             image_ext = base_image["ext"]  # Obtém a extensão da imagem (png, jpeg, etc.)
 
             # Criar o nome do arquivo
-            image_filename = f"image_{documents_number + 1}.{image_ext}"
             documents_number += 1
+            image_filename = f"image_{documents_number}.{image_ext}"
+            image_id = str(documents_number)
             image_path = os.path.join(output_folder, image_filename)
-            image_paths.append(image_path)
+            image_paths.append([image_id, image_path])
+
             # Salvar a imagem extraída
             with open(image_path, "wb") as image_file:
                 image_file.write(image_bytes)
