@@ -81,21 +81,21 @@ def extract_images(pdf_path):
 
     return image_paths
 
-def get_images_description(images_path):
-    descriptions = []
-    for path in images_path:
+def get_images_description(images_path_and_id):
+    descriptions = {}
+    for path_and_id in images_path_and_id:
 
         res = ollama.chat(
             model='llava',
             messages=[
                 {
                     'role': 'user',
-                    'content': 'Describe this image',
-                    'images': [f'{path}']
+                    'content': 'Descreva esta imagem',
+                    'images': [f'{path_and_id[1]}']
                 }
             ]
         )
 
-        descriptions.append(res)
+        descriptions[path_and_id[0]] = res
     
     return descriptions
