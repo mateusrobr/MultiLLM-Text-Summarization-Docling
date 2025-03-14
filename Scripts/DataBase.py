@@ -184,7 +184,7 @@ def loadAndStoreImages(images_ids_and_paths,ids_res_dict):
                 ids=[id[0]],
                 uris=[id[1]],
                 metadatas={
-                    "description": ids_res_dict[id[0]]['message']['content']
+                    "description": ids_res_dict[id[0]]
                 }
             )
     except Exception as e:

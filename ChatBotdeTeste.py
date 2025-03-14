@@ -3,6 +3,9 @@ from Scripts.LLM_summarization import generate_response_with_models, evaluate_re
 from Scripts.PrecessPDF import show_image
 import os 
 
+vectorstore = initializeChromaDB()
+image_vector_store = initializeChromaMultimodal()
+
 def main_menu():
     print("\n=========== Menu do ChatBot ===========")
     print("1 - Enviar um documento PDF para análise")
