@@ -3,7 +3,8 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 #from langchain_community.vectorstores import Chroma
 from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
-from Scripts.PrecessPDF import pdf_to_doc
+from Scripts.PrecessPDF import pdf_to_doc, extract_images
+from chromadb.utils.data_loaders import ImageLoader
 
 default_persist_directory = "./chroma_langchain_db"
 
@@ -23,6 +24,24 @@ def initializeChromaDB(persist_directory=default_persist_directory):
             embedding_function=OllamaEmbeddings(model="nomic-embed-text:latest"),
             persist_directory=persist_directory,
         )
+        print(f"Banco de dados vetorial inicializado com sucesso!")
+        return vector_store
+    except Exception as e:
+        print(f"Erro ao inicializar o banco de dados vetorial: {e}")
+        return None
+
+def initializeChromaDBMultimodal(persist_directory=default_persist_directory):
+    """
+    Inicializa um banco de dados vetorial com persistência usando ChromaDB.
+    
+    Args:
+        persist_directory (str): Diretório para persistir os dados do ChromaDB.
+    
+    Returns:
+        Chroma: O banco de dados vetorial inicializado.
+    """
+    try:
+        multimodal_db = OPEN
         print(f"Banco de dados vetorial inicializado com sucesso!")
         return vector_store
     except Exception as e:
