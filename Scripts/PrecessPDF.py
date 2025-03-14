@@ -6,6 +6,9 @@ from pdf2image import convert_from_path
 from unstructured_client import UnstructuredClient
 import ollama
 
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+
 def pdf_to_doc(file_path):
     """
     Carregar um documento PDF para análise.
@@ -96,6 +99,16 @@ def get_images_description(images_path_and_id):
             ]
         )
 
-        descriptions[path_and_id[0]] = res
+        descriptions[path_and_id[0]] = res['message']['content']
     
     return descriptions
+
+
+def show_image(path):
+
+    img = mpimg.imread(path)
+    
+
+    plt.imshow(img)
+    plt.axis('off')  
+    plt.show()

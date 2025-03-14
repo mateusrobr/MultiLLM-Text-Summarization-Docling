@@ -21,3 +21,6 @@
 `pip install unstructured-client`
 `pip install langchain-unstructured`
 `pip install PyMuPDF`
+`pip install matplotlib`
+`pip install open-clip-torch`
+`pip install pdf2image`

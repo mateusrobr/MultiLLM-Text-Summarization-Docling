@@ -88,9 +88,12 @@ def loadAndStoreDocuments(paths, persist_directory=default_persist_directory):
     """
     try:
         print("Carregando documentos...")
+        print(paths)
         splitted_texts = loadDocuments(paths)
-        image_ids_paths = extract_images(paths)
-        ids_res_dict = get_images_description(image_ids_paths)
+        for path in paths:
+
+            image_ids_paths = extract_images(path)
+            ids_res_dict = get_images_description(image_ids_paths)
 
         
         if not splitted_texts:
@@ -181,7 +184,7 @@ def loadAndStoreImages(images_ids_and_paths,ids_res_dict):
                 ids=[id[0]],
                 uris=[id[1]],
                 metadatas={
-                    "description": ids_res_dict[id[0]]
+                    "description": ids_res_dict[id[0]]['message']['content']
                 }
             )
     except Exception as e:

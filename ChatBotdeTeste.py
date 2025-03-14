@@ -1,6 +1,10 @@
 from Scripts.DataBase import initializeChromaDB, initializeChromaMultimodal, loadAndStoreDocuments
 from Scripts.LLM_summarization import generate_response_with_models, evaluate_responses
 from Scripts.PrecessPDF import show_image
+import os
+
+os.environ["UNSTRUCTURED_API_KEY"] = "EHvRE7FA1u9BaQ0FN7AQv2URUBK8ig"
+os.environ["UNSTRUCTURED_API_URL"] = "https://api.unstructuredapp.io/general/v0/general"
 
 vectorstore = initializeChromaDB()
 image_vector_store = initializeChromaMultimodal()
