@@ -6,6 +6,11 @@ from unstructured_client import UnstructuredClient
 import ollama
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
+from pathlib import Path
+from docling.datamodel.pipeline_options import PdfPipelineOptions
+from docling.document_converter import DocumentConverter, PdfFormatOption
+from docling.datamodel.base_models import  InputFormat
+from docling_core.types.doc import PictureItem
 
 def pdf_to_doc(file_path):
     """
@@ -36,7 +41,7 @@ def pdf_to_doc(file_path):
     return docs
 
 
-def extract_images(pdf_path):
+#def extract_images(pdf_path):
     """
     Extrai imagens de um PDF
     
@@ -73,6 +78,51 @@ def extract_images(pdf_path):
             # Salvar a imagem extraída
             with open(image_path, "wb") as image_file:
                 image_file.write(image_bytes)
+
+    return image_paths
+
+def extract_images(pdf_path):
+    """
+    Extrai imagens de um PDF
+    
+    Args:
+        pdf_path (str): O caminho do arquivo PDF.
+    
+    Returns:
+        list: Uma lista de caminhos das imagens extraídas.
+    """
+    IMAGE_RESOLUTION_SCALE = 2.0
+
+    input_doc_path = Path(pdf_path)
+    output_dir = Path(r".\exemplo_docling")
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    pipeline_options = PdfPipelineOptions()
+    pipeline_options.images_scale = IMAGE_RESOLUTION_SCALE
+    pipeline_options.generate_page_images = True
+    pipeline_options.generate_picture_images = True
+
+
+    doc_converter = DocumentConverter(
+        format_options={
+            InputFormat.PDF: PdfFormatOption(pipeline_options=pipeline_options)
+        }
+    )
+    conv_res = doc_converter.convert(input_doc_path)
+
+    documents_number = len(os.listdir(output_dir))
+    image_paths = []
+    for element, _level in conv_res.document.iterate_items():
+        if isinstance(element, PictureItem):
+            documents_number += 1
+            element_image_filename = (
+                output_dir / f"picture-{documents_number}.png"
+            )
+            image_id = str(documents_number)
+            image_paths.append([image_id, element_image_filename])
+            with element_image_filename.open("wb") as fp:
+                element.get_image(conv_res.document).save(fp, "PNG")
 
     return image_paths
 
