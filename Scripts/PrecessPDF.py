@@ -35,6 +35,7 @@ def pdf_to_doc(file_path):
     docs = loader.load_and_split()  # Carrega e divide o documento PDF em páginas
     return docs
 
+
 def extract_images(pdf_path):
     """
     Extrai imagens de um PDF
@@ -75,6 +76,7 @@ def extract_images(pdf_path):
 
     return image_paths
 
+
 def get_images_description(images_path_and_id):
     """
     Obtém descrições para uma lista de imagens.
@@ -99,7 +101,10 @@ def get_images_description(images_path_and_id):
         )
         descriptions[path_and_id[0]] = res['message']['content']
     
+    print(f'------{descriptions}--------')
+    
     return descriptions
+
 
 def show_image(path):
     """
