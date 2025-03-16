@@ -33,7 +33,7 @@ def chatbot():
         retrive_doc = retrive.invoke(message)
         context = ' '.join([doc.metadata for doc in retrive_doc])
 
-        print(f"----------------------------------------------------------------\nContexto: {retrive_doc['metadata']}\n----------------------------------------------------------------")
+        print(f"----------------------------------------------------------------\nContexto: {context}\n----------------------------------------------------------------")
 
         if image_vector_store.count() > 1:
             results = image_vector_store.query(
@@ -72,7 +72,6 @@ def main():
         elif choice == "3":
             print("\nEncerrando o programa. Até logo!")
             break
-
         else:
             print("\nOpção inválida. Por favor, escolha uma opção válida.")
 

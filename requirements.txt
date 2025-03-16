@@ -1,0 +1,9 @@
+langchain_ollama
+chromadb
+langchain_text_splitters
+pdf2image
+unstructured_client
+python-dotenv
+fitz
+matplotlib
+ollama

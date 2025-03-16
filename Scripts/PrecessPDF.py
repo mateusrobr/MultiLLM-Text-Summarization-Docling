@@ -2,10 +2,8 @@ import os
 from dotenv import load_dotenv, find_dotenv
 import fitz
 from langchain_unstructured import UnstructuredLoader
-from pdf2image import convert_from_path
 from unstructured_client import UnstructuredClient
 import ollama
-
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 
@@ -19,27 +17,22 @@ def pdf_to_doc(file_path):
     Returns:
         list: Uma lista de documentos carregados.
     """
-    
     load_dotenv(find_dotenv())
     unstructured_api_key = os.getenv("UNSTRUCTURED_API_KEY")
     unstructured_api_url = os.getenv("UNSTRUCTURED_API_URL")
-    
     
     loader = UnstructuredLoader(
         file_path=file_path,
         strategy="hi_res",
         partition_via_api=True,
         coordinates=True,
-        client = UnstructuredClient(
+        client=UnstructuredClient(
             api_key_auth=unstructured_api_key, 
-            server_url=unstructured_api_url)
+            server_url=unstructured_api_url
+        )
     )
-
-    docs = []
-
-    for doc in loader.lazy_load():
-        docs.append(doc)
     
+    docs = loader.load_and_split()  # Carrega e divide o documento PDF em páginas
     return docs
 
 def extract_images(pdf_path):
@@ -49,15 +42,13 @@ def extract_images(pdf_path):
     Args:
         pdf_path (str): O caminho do arquivo PDF.
     
+    Returns:
+        list: Uma lista de caminhos das imagens extraídas.
     """
-
     doc = fitz.open(pdf_path)
-
     output_folder = "extracted_images"
-
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
-
 
     documents_number = len(os.listdir(output_folder))
     image_paths = []
@@ -85,9 +76,17 @@ def extract_images(pdf_path):
     return image_paths
 
 def get_images_description(images_path_and_id):
+    """
+    Obtém descrições para uma lista de imagens.
+    
+    Args:
+        images_path_and_id (list): Lista de caminhos e IDs das imagens.
+    
+    Returns:
+        dict: Dicionário com IDs de imagens como chaves e descrições como valores.
+    """
     descriptions = {}
     for path_and_id in images_path_and_id:
-
         res = ollama.chat(
             model='llava',
             messages=[
@@ -98,17 +97,18 @@ def get_images_description(images_path_and_id):
                 }
             ]
         )
-
         descriptions[path_and_id[0]] = res['message']['content']
     
     return descriptions
 
-
 def show_image(path):
-
-    img = mpimg.imread(path)
+    """
+    Exibe uma imagem.
     
-
+    Args:
+        path (str): O caminho da imagem.
+    """
+    img = mpimg.imread(path)
     plt.imshow(img)
     plt.axis('off')  
     plt.show()
