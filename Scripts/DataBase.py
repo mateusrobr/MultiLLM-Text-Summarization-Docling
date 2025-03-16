@@ -1,6 +1,7 @@
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from chromadb.utils.data_loaders import ImageLoader
-from chromadb.utils.embedding_functions import open_clip_embedding_function
+from chromadb.utils.embedding_functions.open_clip_embedding_function import OpenCLIPEmbeddingFunction
+from chromadb import PersistentClient
 from langchain_ollama import OllamaEmbeddings
 from langchain_chroma import Chroma
 from Scripts.PrecessPDF import extract_images, get_images_description, pdf_to_doc
@@ -119,13 +120,14 @@ def initializeChromaMultimodal(persist_directory=default_persist_multimodal_dire
         Banco de dados inicializado
     '''
     try:
-        multimodal_db = Chroma(
-            collection_name="multimodal_db",
-            embedding_function=open_clip_embedding_function.EmbeddingFunction(),
-            data_loader=ImageLoader(),
-            persist_directory=persist_directory
+        chroma_client = PersistentClient(path=persist_directory)
+
+        multimodal_db = chroma_client.get_or_create_collection(
+            name='multimodal_db',
+            embedding_function=OpenCLIPEmbeddingFunction(),
+            data_loader=ImageLoader()
         )
-        
+
         if multimodal_db:
             print('Banco de dados Multimodal Inicializado com sucesso')
                     
@@ -154,7 +156,7 @@ def loadAndStoreImages(images_ids_and_paths, ids_res_dict):
 
     try: 
         for id in images_ids_and_paths:
-            multimodal_db.add_images(
+            multimodal_db.add(
                 ids=[id[0]],
                 uris=[id[1]],
                 metadatas={

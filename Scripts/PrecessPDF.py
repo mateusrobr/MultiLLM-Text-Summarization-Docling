@@ -90,7 +90,7 @@ def get_images_description(images_path_and_id):
     descriptions = {}
     for path_and_id in images_path_and_id:
         res = ollama.chat(
-            model='llava',
+            model='llava:latest',
             messages=[
                 {
                     'role': 'user',
@@ -101,7 +101,7 @@ def get_images_description(images_path_and_id):
         )
         descriptions[path_and_id[0]] = res['message']['content']
     
-    print(f'------{descriptions}--------')
+    #print(f'------{descriptions}--------')
     
     return descriptions
 
